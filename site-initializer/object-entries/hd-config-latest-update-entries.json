@@ -42,7 +42,7 @@
       "additionalParams": "",
       "searchParam": "&search=${search_param}",
       "requestPayload": "{\n  \"attributes\": {\n    \"search.empty.search\": true,\n    \"search.experiences.blueprint.external.reference.code\": \"GEM-TAXONOMY-FILTER-SEARCH\",\n    \"search.experiences.folderId\": {folder_id}\n  }\n}",
-      "serviceURL": "/o/search/v1.0/search?sort=dateModified:desc&nestedFields=embedded&fields=title,dateModified,dateCreated,embedded.contentFields.contentFieldValue,embedded.contentFields.name",
+      "serviceURL": "/o/search/v1.0/search?sort=dateModified:desc&nestedFields=embedded&fields=title,dateModified,dateCreated,embedded.contentFields",
       "characterLimit": 0,
       "filterFields": "",
       "screenName": "/latest",
