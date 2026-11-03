@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Catalogue cloning and listing management]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[कैटलॉग की प्रतिलिपि और लिस्टिंग प्रबंधन]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Sellers can clone similar listings and reconfirm stock every 60 days. Category owners can migrate approved brands and OEMs to replacement categories.]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[विक्रेता मिलती-जुलती लिस्टिंग की प्रतिलिपि बना सकते हैं और हर 60 दिन में स्टॉक की पुनः पुष्टि कर सकते हैं। श्रेणी प्रबंधक स्वीकृत ब्रांडों और ओईएम को नई श्रेणियों में स्थानांतरित कर सकते हैं।]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Marketplace tools]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[मार्केटप्लेस के साधन]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p>Changes also cover combined brand and OEM requests, lead-time filtering, GeMARPTS, local purchasing roles and reactivation of service offers after a 15-day wait.</p><p><a href="https://gem.gov.in/latest#previous-month">GeM Latest Features</a></p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p>बदलावों में संयुक्त ब्रांड और ओईएम अनुरोध, आपूर्ति समय का फ़िल्टर, जेमएआरपीटीएस, स्थानीय खरीद की भूमिकाएँ और 15 दिन की प्रतीक्षा के बाद सेवा पेशकशों को फिर सक्रिय करना शामिल है।</p><p><a href="https://gem.gov.in/latest#previous-month">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>

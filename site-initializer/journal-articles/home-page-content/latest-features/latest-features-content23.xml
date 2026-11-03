@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Supplementary invoices and shipment tracking]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[पूरक चालान और खेप की निगरानी]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Sellers can invoice replacement quantities separately and generate QR-coded dispatch slips. Buyer dashboards show separate views for MSE dues, acceptance dues and payments made.]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[विक्रेता बदली गई मात्रा का अलग चालान और क्यूआर कोड वाली प्रेषण पर्ची बना सकते हैं। खरीदार डैशबोर्ड में एमएसई के बकाया भुगतान, लंबित स्वीकृतियाँ और किए गए भुगतान अलग-अलग दिखते हैं।]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">GeM Latest Features</a></p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>

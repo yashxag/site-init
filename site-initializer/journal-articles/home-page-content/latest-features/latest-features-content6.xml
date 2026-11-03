@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Automated award in Push Button Procurement]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[पुश बटन खरीद में स्वतः अनुबंध आवंटन]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[GeM checks the eligibility and price conditions and awards eligible PBP contracts automatically.]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[जेम पात्रता और मूल्य की शर्तें जाँचता है और पात्र पीबीपी अनुबंध स्वतः आवंटित करता है।]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Eligibility]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[पात्रता]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p>The procurement ceiling is ₹5 lakh including tax. Eligible categories have at least ten sources. The system checks for five bids across at least two brands and requires the lowest offer to fall below the comparable marketplace price.</p><p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p>कर सहित खरीद की अधिकतम सीमा ₹5 लाख है। पात्र श्रेणियों में कम से कम दस आपूर्ति स्रोत होते हैं। प्रणाली कम से कम दो ब्रांडों से पाँच बोलियाँ जाँचती है और सबसे कम पेशकश का मूल्य तुलनीय मार्केटप्लेस मूल्य से कम होना चाहिए।</p><p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>

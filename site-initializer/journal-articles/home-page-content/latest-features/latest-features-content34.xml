@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Marketplace and catalogue enhancements]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[मार्केटप्लेस और कैटलॉग में सुधार]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[GeM added a downloadable category list, brand document uploads, category specifications across purchase documents and catalogue ID search. Local searches support up to five locations, and paired Q2 listings are delisted when an OEM discontinues a product.]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[जेम ने डाउनलोड करने योग्य श्रेणी सूची, ब्रांड दस्तावेज़ अपलोड, खरीद दस्तावेज़ों में श्रेणी विनिर्देश और कैटलॉग आईडी से खोज जोड़ी। स्थानीय खोज में पाँच स्थान तक शामिल हो सकते हैं। ओईएम के किसी उत्पाद को बंद करने पर उससे जुड़ी क्यू2 लिस्टिंग हटा दी जाती हैं।]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#explore">GeM Latest Features</a></p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#explore">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>

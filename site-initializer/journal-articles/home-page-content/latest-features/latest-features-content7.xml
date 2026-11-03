@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[India Post shipping integration]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[इंडिया पोस्ट की शिपिंग सेवा का एकीकरण]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Sellers can book India Post shipments to Indian PIN codes, arrange pickup or drop-off for up to ten boxes per consignment, track shipments and cancel bookings.]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[विक्रेता भारतीय पिन कोडों के लिए इंडिया पोस्ट से खेप बुक कर सकते हैं, हर खेप में दस बॉक्स तक पिकअप या ड्रॉप-ऑफ़ तय कर सकते हैं, खेप की स्थिति देख सकते हैं और बुकिंग रद्द कर सकते हैं।]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>

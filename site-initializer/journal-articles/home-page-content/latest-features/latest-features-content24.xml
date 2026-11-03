@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Payment and procurement integrations]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[भुगतान और खरीद प्रणालियों का एकीकरण]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Changes include TReDS bill discounting for eligible parties, Railway and CPPP integrations, upgrades to the GeM Pool Account, automated receipt and acceptance certificates, year-end PFMS fund controls and online Railway service-order payments.]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[बदलावों में पात्र पक्षों के लिए टीआरईडीएस बिल डिस्काउंटिंग, रेलवे और सीपीपीपी का एकीकरण, जेम पूल खाते में सुधार, स्वतः प्राप्ति और स्वीकृति प्रमाणपत्र, वित्त वर्ष के अंत में पीएफएमएस निधि नियंत्रण और रेलवे सेवा आदेशों के ऑनलाइन भुगतान शामिल हैं।]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">GeM Latest Features</a></p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>

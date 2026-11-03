@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Buyer, seller and defence dashboards]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[खरीदार, विक्रेता और रक्षा डैशबोर्ड]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[The incentive dashboard shows rankings for the top 100 organizations. Defence nodal officers can review KPIs and download reports. Business Cockpit reports include new order and brand fields.]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[प्रोत्साहन डैशबोर्ड शीर्ष 100 संगठनों की रैंक दिखाता है। रक्षा नोडल अधिकारी केपीआई देख सकते हैं और रिपोर्ट डाउनलोड कर सकते हैं। बिज़नेस कॉकपिट रिपोर्ट में आदेश और ब्रांड से जुड़े नए फ़ील्ड हैं।]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>

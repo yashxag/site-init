@@ -1,0 +1,11 @@
+{
+  "articleId": "LATEST-FEATURES-CONTENT20",
+  "ddmStructureKey": "LATEST-FEATURES",
+  "folder": "Latest Features",
+  "name": "Country of origin and local content",
+  "externalReferenceCode": "latest-features-content20",
+  "assetCategoryERCs": [
+    "product-and-services-product"
+  ],
+  "ddmTemplateKey": "LATEST-FEATURES-TEMPLATE"
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Buyer and seller registration]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[खरीदार और विक्रेता का पंजीकरण]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[NIC LDAP authenticates buyers, who can also invite suppliers. Seller onboarding separates organization details, personal checks, email verification and credentials. Self-help group missions can showcase their members’ products.]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[एनआईसी एलडीएपी खरीदारों का प्रमाणीकरण करता है। खरीदार आपूर्तिकर्ताओं को आमंत्रित भी कर सकते हैं। विक्रेता पंजीकरण में संगठन विवरण, व्यक्तिगत सत्यापन, ईमेल सत्यापन और लॉगिन विवरण अलग चरण हैं। स्वयं सहायता समूहों के मिशन अपने सदस्यों के उत्पाद प्रदर्शित कर सकते हैं।]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">GeM Latest Features</a></p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>

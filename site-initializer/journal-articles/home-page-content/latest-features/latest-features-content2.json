@@ -1,0 +1,11 @@
+{
+  "articleId": "LATEST-FEATURES-CONTENT2",
+  "ddmStructureKey": "LATEST-FEATURES",
+  "folder": "Latest Features",
+  "name": "Pending invoice dashboard",
+  "externalReferenceCode": "latest-features-content2",
+  "assetCategoryERCs": [
+    "product-and-services-services"
+  ],
+  "ddmTemplateKey": "LATEST-FEATURES-TEMPLATE"
+}

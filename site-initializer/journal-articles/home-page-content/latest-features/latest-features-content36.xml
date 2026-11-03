@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Fulfilment and invoice enhancements]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[आदेश पूर्ति और चालान में सुधार]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Buyers can record tax deductions and accept fractional quantities where supported. Other changes cover bank-guarantee restrictions, cancellation after invoicing in eligible cases and tax breakdowns for GST-registered sellers.]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[खरीदार कर कटौतियाँ दर्ज कर सकते हैं और समर्थित श्रेणियों में दशमलव मात्रा स्वीकार कर सकते हैं। अन्य बदलाव बैंक गारंटी संबंधी प्रतिबंधों, पात्र मामलों में चालान के बाद रद्दीकरण और जीएसटी पंजीकृत विक्रेताओं के कर विवरण से जुड़े हैं।]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#explore">GeM Latest Features</a></p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#explore">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>

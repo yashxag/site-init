@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Bid creation, participation and evaluation]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[बोली बनाना, उसमें भाग लेना और उसका मूल्यांकन]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Buyers can set staggered delivery, choose eligible MSE preferences and least-cost selection, and attach drawings or work statements.]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[खरीदार चरणबद्ध डिलीवरी तय कर सकते हैं, पात्र एमएसई वरीयता और न्यूनतम लागत वाला चयन चुन सकते हैं तथा ड्रॉइंग या कार्य विवरण संलग्न कर सकते हैं।]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Participation and review]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[भागीदारी और समीक्षा]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p>The changes add seller notifications, reverse-auction timing, public bid filters, technical comparisons and a 48-hour window to challenge technical disqualification.</p><p><a href="https://gem.gov.in/latest#previous-month">GeM Latest Features</a></p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p>बदलावों में विक्रेता सूचनाएँ, रिवर्स नीलामी की समय-सूचना, सार्वजनिक बोली फ़िल्टर, तकनीकी तुलना और तकनीकी अयोग्यता को चुनौती देने के लिए 48 घंटे की अवधि शामिल हैं।</p><p><a href="https://gem.gov.in/latest#previous-month">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>

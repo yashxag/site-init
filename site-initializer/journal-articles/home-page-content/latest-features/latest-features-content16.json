@@ -1,0 +1,11 @@
+{
+  "articleId": "LATEST-FEATURES-CONTENT16",
+  "ddmStructureKey": "LATEST-FEATURES",
+  "folder": "Latest Features",
+  "name": "E-invoicing and price variation",
+  "externalReferenceCode": "latest-features-content16",
+  "assetCategoryERCs": [
+    "product-and-services-product"
+  ],
+  "ddmTemplateKey": "LATEST-FEATURES-TEMPLATE"
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Bidding enhancements]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[बोली प्रक्रिया में सुधार]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[GeM added maintenance-cost evaluation for medical equipment, support for freight-intensive bids, longer delivery windows and EMD exemption checks.]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[जेम ने चिकित्सा उपकरणों की रखरखाव लागत का मूल्यांकन, अधिक मालभाड़े वाली बोलियों की सुविधा, लंबी डिलीवरी अवधि और ईएमडी छूट की जाँच जोड़ी।]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Bid terms and participation]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[बोली की शर्तें और भागीदारी]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p>Changes cover the terms library, buyback, OEM participation thresholds, approval for additional terms, reference prices and bid closing dates.</p><p><a href="https://gem.gov.in/latest#explore">GeM Latest Features</a></p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p>बदलावों में शर्तों की लाइब्रेरी, बायबैक, ओईएम भागीदारी की न्यूनतम सीमा, अतिरिक्त शर्तों की मंज़ूरी, संदर्भ मूल्य और बोली की अंतिम तारीखें शामिल हैं।</p><p><a href="https://gem.gov.in/latest#explore">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>

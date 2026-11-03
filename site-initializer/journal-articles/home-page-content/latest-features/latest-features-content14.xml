@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Contract amendments and signatures]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[अनुबंध संशोधन और हस्ताक्षर]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Buyers can propose shorter contract durations through an amendment accompanying a cancellation request. The amendment takes effect after seller acceptance.]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[खरीदार रद्दीकरण अनुरोध के साथ संशोधन भेजकर अनुबंध की अवधि घटाने का प्रस्ताव दे सकते हैं। विक्रेता की स्वीकृति के बाद संशोधन लागू होता है।]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Signing]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[हस्ताक्षर]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p>Digital certificates cover selected bid and fulfilment steps. Users can also sign uploaded documents using e-Mudhra.</p><p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p>डिजिटल प्रमाणपत्र का उपयोग बोली और आदेश पूर्ति के चुनिंदा चरणों में किया जा सकता है। उपयोगकर्ता ई-मुद्रा के माध्यम से अपलोड किए गए दस्तावेज़ों पर भी हस्ताक्षर कर सकते हैं।</p><p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>

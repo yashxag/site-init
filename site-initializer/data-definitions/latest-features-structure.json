@@ -1,0 +1,426 @@
+{
+  "availableLanguageIds": [
+    "en_US",
+    "hi_IN"
+  ],
+  "contentType": "journal",
+  "dataDefinitionFields": [
+    {
+      "customProperties": {
+        "labelAtStructureLevel": true,
+        "confirmationErrorMessage": {
+          "en_US": ""
+        },
+        "hideField": false,
+        "autocomplete": false,
+        "ddmDataProviderInstanceId": [],
+        "dataType": "string",
+        "tooltip": {
+          "en_US": ""
+        },
+        "requireConfirmation": false,
+        "displayStyle": "singleline",
+        "fieldNamespace": "",
+        "visibilityExpression": "",
+        "ddmDataProviderInstanceOutput": [],
+        "options": {},
+        "nativeField": false,
+        "confirmationLabel": {
+          "en_US": ""
+        },
+        "fieldReference": "heading",
+        "placeholder": {
+          "en_US": ""
+        },
+        "htmlAutocompleteAttribute": "",
+        "dataSourceType": "",
+        "direction": [
+          "vertical"
+        ]
+      },
+      "defaultValue": {
+        "en_US": "",
+        "hi_IN": ""
+      },
+      "fieldType": "text",
+      "indexType": "keyword",
+      "indexable": true,
+      "label": {
+        "en_US": "Heading",
+        "hi_IN": "शीर्षक"
+      },
+      "localizable": true,
+      "name": "Text04316015",
+      "nestedDataDefinitionFields": [],
+      "readOnly": false,
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "tip": {
+        "en_US": ""
+      }
+    },
+    {
+      "customProperties": {
+        "labelAtStructureLevel": true,
+        "confirmationErrorMessage": {
+          "en_US": ""
+        },
+        "hideField": false,
+        "dataType": "string",
+        "tooltip": {
+          "en_US": ""
+        },
+        "requireConfirmation": false,
+        "displayStyle": "multiline",
+        "fieldNamespace": "",
+        "requiredErrorMessage": {
+          "en_US": ""
+        },
+        "visibilityExpression": "",
+        "objectFieldName": "",
+        "options": {},
+        "nativeField": false,
+        "confirmationLabel": {
+          "en_US": ""
+        },
+        "fieldReference": "description",
+        "placeholder": {
+          "en_US": ""
+        },
+        "htmlAutocompleteAttribute": "",
+        "direction": [
+          "vertical"
+        ]
+      },
+      "defaultValue": {
+        "en_US": "",
+        "hi_IN": ""
+      },
+      "fieldType": "text",
+      "indexType": "keyword",
+      "indexable": true,
+      "label": {
+        "en_US": "Description",
+        "hi_IN": "विवरण"
+      },
+      "localizable": true,
+      "name": "Text50680698",
+      "nestedDataDefinitionFields": [],
+      "readOnly": false,
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "tip": {
+        "en_US": ""
+      }
+    },
+    {
+      "customProperties": {
+        "normalizedStructure": false,
+        "labelAtStructureLevel": true,
+        "ddmStructureKey": "",
+        "ddmStructureLayoutId": "",
+        "ddmStructureId": "",
+        "upgradedStructure": false,
+        "fieldReference": "subDescriptionGroup",
+        "rows": [
+          {
+            "columns": [
+              {
+                "size": 12,
+                "fields": [
+                  "Text51751789"
+                ]
+              }
+            ]
+          },
+          {
+            "columns": [
+              {
+                "size": 12,
+                "fields": [
+                  "RichText13464850"
+                ]
+              }
+            ]
+          }
+        ],
+        "collapsible": true,
+        "externalReferenceCode": ""
+      },
+      "defaultValue": {
+        "en_US": ""
+      },
+      "fieldType": "fieldset",
+      "indexable": false,
+      "label": {
+        "en_US": "Sub Description",
+        "hi_IN": "उप-विवरण"
+      },
+      "localizable": false,
+      "name": "Fieldset33500144",
+      "nestedDataDefinitionFields": [
+        {
+          "customProperties": {
+            "labelAtStructureLevel": true,
+            "confirmationErrorMessage": {
+              "en_US": ""
+            },
+            "hideField": false,
+            "autocomplete": false,
+            "ddmDataProviderInstanceId": [],
+            "dataType": "string",
+            "tooltip": {
+              "en_US": ""
+            },
+            "requireConfirmation": false,
+            "displayStyle": "singleline",
+            "fieldNamespace": "",
+            "visibilityExpression": "",
+            "ddmDataProviderInstanceOutput": [],
+            "options": {},
+            "nativeField": false,
+            "confirmationLabel": {
+              "en_US": ""
+            },
+            "fieldReference": "subHeading",
+            "placeholder": {
+              "en_US": ""
+            },
+            "htmlAutocompleteAttribute": "",
+            "dataSourceType": "",
+            "direction": [
+              "vertical"
+            ]
+          },
+          "defaultValue": {
+            "en_US": "",
+            "hi_IN": ""
+          },
+          "fieldType": "text",
+          "indexType": "keyword",
+          "indexable": true,
+          "label": {
+            "en_US": "Sub Heading",
+            "hi_IN": "उपशीर्षक"
+          },
+          "localizable": true,
+          "name": "Text51751789",
+          "nestedDataDefinitionFields": [],
+          "readOnly": false,
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "tip": {
+            "en_US": ""
+          }
+        },
+        {
+          "customProperties": {
+            "fieldNamespace": "",
+            "visibilityExpression": "",
+            "editorConfig": null,
+            "dataType": "string",
+            "fieldReference": "subDescription"
+          },
+          "defaultValue": {
+            "en_US": "",
+            "hi_IN": ""
+          },
+          "fieldType": "rich_text",
+          "indexType": "text",
+          "indexable": true,
+          "label": {
+            "en_US": "Sub Description",
+            "hi_IN": "उप-विवरण"
+          },
+          "localizable": true,
+          "name": "RichText13464850",
+          "nestedDataDefinitionFields": [],
+          "readOnly": false,
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "tip": {
+            "en_US": ""
+          }
+        }
+      ],
+      "readOnly": false,
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "tip": {
+        "en_US": ""
+      }
+    },
+    {
+      "customProperties": {
+        "labelAtStructureLevel": true,
+        "confirmationErrorMessage": {
+          "en_US": ""
+        },
+        "hideField": false,
+        "dataType": "string",
+        "tooltip": {
+          "en_US": ""
+        },
+        "requireConfirmation": false,
+        "displayStyle": "multiline",
+        "fieldNamespace": "",
+        "requiredErrorMessage": {
+          "en_US": ""
+        },
+        "visibilityExpression": "",
+        "objectFieldName": "",
+        "options": {},
+        "nativeField": false,
+        "confirmationLabel": {
+          "en_US": ""
+        },
+        "fieldReference": "additionalDescription",
+        "placeholder": {
+          "en_US": ""
+        },
+        "htmlAutocompleteAttribute": "",
+        "direction": [
+          "vertical"
+        ]
+      },
+      "defaultValue": {
+        "en_US": "",
+        "hi_IN": ""
+      },
+      "fieldType": "text",
+      "indexType": "keyword",
+      "indexable": true,
+      "label": {
+        "en_US": "Additional Description",
+        "hi_IN": "अतिरिक्त विवरण"
+      },
+      "localizable": true,
+      "name": "Text43132843",
+      "nestedDataDefinitionFields": [],
+      "readOnly": false,
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "tip": {
+        "en_US": ""
+      }
+    },
+    {
+      "customProperties": {
+        "labelAtStructureLevel": true,
+        "fieldNamespace": "",
+        "visibilityExpression": "",
+        "allowGuestUsers": false,
+        "dataType": "document-library",
+        "fieldReference": "uploadMedia"
+      },
+      "defaultValue": {
+        "en_US": "",
+        "hi_IN": ""
+      },
+      "fieldType": "document_library",
+      "indexType": "keyword",
+      "indexable": true,
+      "label": {
+        "en_US": "Upload Media",
+        "hi_IN": "मीडिया अपलोड करें"
+      },
+      "localizable": true,
+      "name": "DocumentLibrary97431574",
+      "nestedDataDefinitionFields": [],
+      "readOnly": false,
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "tip": {
+        "en_US": ""
+      }
+    }
+  ],
+  "dataDefinitionKey": "LATEST-FEATURES",
+  "defaultDataLayout": {
+    "dataLayoutFields": {},
+    "dataLayoutPages": [
+      {
+        "dataLayoutRows": [
+          {
+            "dataLayoutColumns": [
+              {
+                "columnSize": 12,
+                "fieldNames": [
+                  "Text04316015"
+                ]
+              }
+            ]
+          },
+          {
+            "dataLayoutColumns": [
+              {
+                "columnSize": 12,
+                "fieldNames": [
+                  "Text50680698"
+                ]
+              }
+            ]
+          },
+          {
+            "dataLayoutColumns": [
+              {
+                "columnSize": 12,
+                "fieldNames": [
+                  "Fieldset33500144"
+                ]
+              }
+            ]
+          },
+          {
+            "dataLayoutColumns": [
+              {
+                "columnSize": 12,
+                "fieldNames": [
+                  "Text43132843"
+                ]
+              }
+            ]
+          },
+          {
+            "dataLayoutColumns": [
+              {
+                "columnSize": 12,
+                "fieldNames": [
+                  "DocumentLibrary97431574"
+                ]
+              }
+            ]
+          }
+        ],
+        "description": {
+          "en_US": ""
+        },
+        "title": {
+          "en_US": ""
+        }
+      }
+    ],
+    "dataRules": [],
+    "description": {},
+    "name": {
+      "en_US": "Latest Features",
+      "hi_IN": "नवीनतम सुविधाएँ"
+    },
+    "paginationMode": "single-page"
+  },
+  "defaultLanguageId": "en_US",
+  "description": {},
+  "externalReferenceCode": "bb8c8fc1-7597-e3a9-a617-493e7ccace87",
+  "name": {
+    "en_US": "Latest Features",
+    "hi_IN": "नवीनतम सुविधाएँ"
+  },
+  "storageType": "default"
+}

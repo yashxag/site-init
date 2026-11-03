@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Catalogue management updates]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[कैटलॉग प्रबंधन में बदलाव]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Categories can offer installation, commissioning and testing as separately priced options.]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[श्रेणियों में स्थापना, कमीशनिंग और परीक्षण को अलग-अलग मूल्य वाले विकल्प के रूप में दिया जा सकता है।]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Catalogue rules]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[कैटलॉग के नियम]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p>Changes also lock the category unit of measure, standardize rejection feedback, simplify price-on-demand rate sheets and link new uploads to caution-money status. Brand applications support registered, unregistered and unbranded products.</p><p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p>अन्य बदलावों में श्रेणी की माप इकाई स्थिर रखना, अस्वीकृति की प्रतिक्रिया का मानकीकरण, मांग पर मूल्य वाली सेवाओं की दर-सूची सरल करना और नई प्रविष्टियों को जमानत राशि की स्थिति से जोड़ना शामिल है। ब्रांड आवेदन पंजीकृत, अपंजीकृत और बिना ब्रांड वाले उत्पादों के लिए उपलब्ध हैं।</p><p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>

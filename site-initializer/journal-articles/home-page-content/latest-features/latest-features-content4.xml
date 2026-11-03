@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Board and beneficial ownership undertakings]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[निदेशक मंडल और लाभकारी स्वामित्व संबंधी घोषणापत्र]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Sellers can submit a shareholder list or an undertaking from a statutory auditor or director. A qualifying director who signs must use the prescribed declaration on notarized non-judicial stamp paper worth at least ₹100.]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[विक्रेता शेयरधारकों की सूची या सांविधिक लेखापरीक्षक अथवा निदेशक का घोषणापत्र जमा कर सकते हैं। हस्ताक्षर करने वाले पात्र निदेशक को कम से कम ₹100 के नोटरीकृत गैर-न्यायिक स्टाम्प पेपर पर निर्धारित घोषणा देनी होगी।]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>

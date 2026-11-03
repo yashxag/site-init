@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Bidding process updates]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[बोली प्रक्रिया में बदलाव]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[GeM added technical evaluation reporting, approved negotiation with the lowest bidder, buyback and automated selection among tied service bidders.]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[जेम ने तकनीकी मूल्यांकन रिपोर्ट, सबसे कम बोलीदाता से अनुमोदित बातचीत, बायबैक और समान न्यूनतम बोली वाले सेवा प्रदाताओं का स्वचालित चयन जोड़ा है।]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Bid options]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[बोली के विकल्प]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p>Other changes cover MSE preference in services, validity extensions, splitting bids when moving to reverse auction, fixed GST rates during reverse auction and a ten-day minimum end date for custom bids.</p><p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p>अन्य बदलावों में सेवाओं के लिए एमएसई वरीयता, वैधता बढ़ाना, रिवर्स नीलामी में जाते समय बोली विभाजन, नीलामी के दौरान जीएसटी दर स्थिर रखना और कस्टम बोलियों के लिए कम से कम दस दिन की अवधि शामिल हैं।</p><p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>
