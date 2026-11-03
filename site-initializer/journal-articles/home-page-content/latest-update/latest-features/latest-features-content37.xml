@@ -2,21 +2,21 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Non-challan GeM Pool Accounts]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Payment Enhancements:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[बिना चालान वाले जेम पूल खाते]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Eligible PSU and non-PFMS buyers can fund their pool accounts in advance and pay for purchases from the balance.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[पात्र सार्वजनिक क्षेत्र के उपक्रम और गैर-पीएफएमएस खरीदार पूल खाते में पहले से राशि जमा कर सकते हैं और उसी शेष राशि से खरीद का भुगतान कर सकते हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[GPA – Non Challan Model]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[जीपीए का बिना चालान वाला मॉडल]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#explore">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#explore">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>GeM Pool Account – Non Challan Model has been launched for all PSU buyers and Non-PFMS entities</li><li>The Buyer would keep a floating amount in the GeMpool account hosted by banks. The floating amount would be used for all Purchases made on GeM.</li><li>No challan would be generated as account is pre funded by NPAE (Non PFMS Agencies and Entities)</li><li>IOCL is the first PSU with which GeM has activated GPA Non Challan model</li><li>12 Public / Private banks have adopted both GPA Challan and Non-Challan model.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>GeM Pool Account – Non Challan Model has been launched for all PSU buyers and Non-PFMS entities</li><li>The Buyer would keep a floating amount in the GeMpool account hosted by banks. The floating amount would be used for all Purchases made on GeM.</li><li>No challan would be generated as account is pre funded by NPAE (Non PFMS Agencies and Entities)</li><li>IOCL is the first PSU with which GeM has activated GPA Non Challan model</li><li>12 Public / Private banks have adopted both GPA Challan and Non-Challan model.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

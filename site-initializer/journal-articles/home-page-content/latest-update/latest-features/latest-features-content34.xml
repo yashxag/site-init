@@ -2,21 +2,61 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Marketplace and catalogue enhancements]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Marketplace Enhancements:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[मार्केटप्लेस और कैटलॉग में सुधार]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[GeM added a downloadable category list, brand document uploads, category specifications across purchase documents and catalogue ID search. Local searches support up to five locations, and paired Q2 listings are delisted when an OEM discontinues a product.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[जेम ने डाउनलोड करने योग्य श्रेणी सूची, ब्रांड दस्तावेज़ अपलोड, खरीद दस्तावेज़ों में श्रेणी विनिर्देश और कैटलॉग आईडी से खोज जोड़ी। स्थानीय खोज में पाँच स्थान तक शामिल हो सकते हैं। ओईएम के किसी उत्पाद को बंद करने पर उससे जुड़ी क्यू2 लिस्टिंग हटा दी जाती हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#explore">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#explore">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Detailed list of product categories is made available in downloadable pdf format for easy category search by GeM users.</li><li>Supporting documents for brand application can be uploaded from seller panel itself.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Detailed list of product categories is made available in downloadable pdf format for easy category search by GeM users.</li><li>Supporting documents for brand application can be uploaded from seller panel itself.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0002" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0002" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Display Category Documents on Product Direct Purchase, Bid & Contract]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[उत्पाद की सीधी खरीद, बोली और अनुबंध में श्रेणी दस्तावेज़ दिखाना]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0002" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Category specification documents are now shown to buyer on product display page, bid document and contract document. This is aimed at helping buyers and sellers to check the compliance of product w.r.t category specification.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Category specification documents are now shown to buyer on product display page, bid document and contract document. This is aimed at helping buyers and sellers to check the compliance of product w.r.t category specification.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0003" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0003" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[CMS - Catalog Search by Product ID/Catalog ID On Seller Panel]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[विक्रेता पैनल में उत्पाद या कैटलॉग आईडी से खोज]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0003" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Seller can now directly search for a particular product that they have uploaded using the product id or catalog id.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Seller can now directly search for a particular product that they have uploaded using the product id or catalog id.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0004" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0004" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Search for local Sellers / service providers on GeM]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[जेम पर स्थानीय विक्रेता और सेवा प्रदाता खोजना]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0004" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>GeM marketplace now allows using of local search for:</li><li>5 PIN codes / states / districts in one go</li><li>Local Seller / Service Providers for Product / Services</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>GeM marketplace now allows using of local search for:</li><li>5 PIN codes / states / districts in one go</li><li>Local Seller / Service Providers for Product / Services</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0005" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0005" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Discontinued Product]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[बंद किया गया उत्पाद]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0005" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>If a product is discontinued by OEM of the brand, all paired catalogs are de-listed from the market.</li></ul><p>This is applicable for categories in Q2 where OEMs create catalogs and resellers pair with these catalogs.</p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>If a product is discontinued by OEM of the brand, all paired catalogs are de-listed from the market.</li></ul><p>This is applicable for categories in Q2 where OEMs create catalogs and resellers pair with these catalogs.</p></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

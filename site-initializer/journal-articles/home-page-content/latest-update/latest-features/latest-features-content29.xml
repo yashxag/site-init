@@ -2,21 +2,21 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Business Cockpit subscription renewal]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Business Cockpit Subscription renewal for OEMs:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[बिज़नेस कॉकपिट सदस्यता का नवीनीकरण]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[OEMs can renew within the month before expiry. A renewal extends access by one year from the expiry date.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[ओईएम सदस्यता समाप्त होने से पहले के महीने में नवीनीकरण कर सकते हैं। नवीनीकरण से समाप्ति की तारीख से एक साल तक पहुँच बढ़ती है।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Renew Subscription option is available to those OEMs whose subscription is getting expired within a month. The Pay now link is visible to the OEMs till they make the payment. Once the OEMs make the payment, the subscription will get renewed from the expiry date for next one year. If OEM didn’t renew their services, Business cockpit page will stop displaying statistics/data starting from the date of expiry of subscription.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Renew Subscription option is available to those OEMs whose subscription is getting expired within a month. The Pay now link is visible to the OEMs till they make the payment. Once the OEMs make the payment, the subscription will get renewed from the expiry date for next one year. If OEM didn’t renew their services, Business cockpit page will stop displaying statistics/data starting from the date of expiry of subscription.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

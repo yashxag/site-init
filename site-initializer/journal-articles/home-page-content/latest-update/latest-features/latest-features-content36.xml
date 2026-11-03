@@ -2,21 +2,61 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Fulfilment and invoice enhancements]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Fulfillment Enhancements]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[आदेश पूर्ति और चालान में सुधार]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Buyers can record tax deductions and accept fractional quantities where supported. Other changes cover bank-guarantee restrictions, cancellation after invoicing in eligible cases and tax breakdowns for GST-registered sellers.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[खरीदार कर कटौतियाँ दर्ज कर सकते हैं और समर्थित श्रेणियों में दशमलव मात्रा स्वीकार कर सकते हैं। अन्य बदलाव बैंक गारंटी संबंधी प्रतिबंधों, पात्र मामलों में चालान के बाद रद्दीकरण और जीएसटी पंजीकृत विक्रेताओं के कर विवरण से जुड़े हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Additional Deduction field on Bills]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[बिलों में अतिरिक्त कटौती का फ़ील्ड]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#explore">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#explore">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Buyers can now impose additional deductions such as TDS, TDS under GST and any other applicable taxes at the time of bill creation.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Buyers can now impose additional deductions such as TDS, TDS under GST and any other applicable taxes at the time of bill creation.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0002" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0002" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Provision of filling actual quantity received in decimal enabled on GeM]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[प्राप्त वास्तविक मात्रा को दशमलव में दर्ज करने की सुविधा]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0002" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>To support categories that require quantity to be measured in 3 decimals e.g. Steel measured in Metric Tonnes, buyer at the time of CRAC creation can specify the exact quantity received e.g 66.045.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>To support categories that require quantity to be measured in 3 decimals e.g. Steel measured in Metric Tonnes, buyer at the time of CRAC creation can specify the exact quantity received e.g 66.045.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0003" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0003" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[ePBG rules to restrict OEM / Sellers accept further orders]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[आगे के आदेश स्वीकार करने पर ईपीबीजी के प्रतिबंध]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0003" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>OEMs / Sellers for whom BG backed transaction charges apply except automobiles, would not be able to accept any further orders if:</li></ul><p>a) BG Limit is crossed</p><p>b) BG is expired</p><p>c) Challans payment is due for more than 21 days</p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>OEMs / Sellers for whom BG backed transaction charges apply except automobiles, would not be able to accept any further orders if:</li></ul><p>a) BG Limit is crossed</p><p>b) BG is expired</p><p>c) Challans payment is due for more than 21 days</p></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0004" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0004" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Buyers now have the option to cancel product contracts after invoice generation by seller:]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[चालान बनने के बाद उत्पाद अनुबंध रद्द करने का विकल्प]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0004" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Now buyers get the option to cancel the product contract(s) even if the invoice has been generated by seller provided 15 days have expired from delivery period.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Now buyers get the option to cancel the product contract(s) even if the invoice has been generated by seller provided 15 days have expired from delivery period.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0005" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0005" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[GSTIN made mandatory for any seller having GSTIN number]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[जीएसटीआईएन वाले विक्रेताओं के लिए उसे देना अनिवार्य]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0005" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Now sellers having GSTIN number will have to mandatorily provide it. Also the ones having GSTIN need to provide breakup of CGST/SGST/UGST and IGST.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Now sellers having GSTIN number will have to mandatorily provide it. Also the ones having GSTIN need to provide breakup of CGST/SGST/UGST and IGST.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

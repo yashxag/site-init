@@ -2,21 +2,21 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[GeM Seller app for Android and iOS]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Launch of iOS & Android App for GeM Sellers:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[एंड्रॉइड और आईओएस के लिए जेम सेलर ऐप]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Primary and secondary sellers can use the app to review actions such as order acceptance, delivery, transaction charges and outstanding invoices.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[GeM is delighted to announce the launch of the latest version of "GeM Seller" app for both Android Play Store and iOS App Store.]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[प्राथमिक और द्वितीयक विक्रेता ऐप में आदेश स्वीकार करने, डिलीवरी, लेनदेन शुल्क और लंबित चालानों से जुड़े कार्य देख सकते हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Highlights:-]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[मुख्य बातें]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Both Primary &amp; Secondary Sellers have Access to the App.</li><li>Sellers can now view the Pending Actionable Tasks associated with them w.r.t Orders to be Accepted, Orders to be Delivered, Transaction Charges Pendency and Invoices Pending for Orders etc via this App.</li><li>Sellers can also view the Bid Notifications, Catalogue and Incidents on the click of a button.</li><li>Furthermore, Sellers can easily raise, view and escalate their problems seeking resolution via CRM tickets through this application.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Both Primary &amp; Secondary Sellers have Access to the App.</li><li>Sellers can now view the Pending Actionable Tasks associated with them w.r.t Orders to be Accepted, Orders to be Delivered, Transaction Charges Pendency and Invoices Pending for Orders etc via this App.</li><li>Sellers can also view the Bid Notifications, Catalogue and Incidents on the click of a button.</li><li>Furthermore, Sellers can easily raise, view and escalate their problems seeking resolution via CRM tickets through this application.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

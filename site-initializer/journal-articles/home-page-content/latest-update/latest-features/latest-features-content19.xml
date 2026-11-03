@@ -2,21 +2,21 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Post-contract amendments for product orders]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Post Contract Management:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[उत्पाद आदेशों में अनुबंध के बाद संशोधन]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Buyers can request multiple quantity changes and adjust delivery periods through extension notices or by resetting the delivery period for open, uninvoiced quantities.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[खरीदार मात्रा में एक से अधिक बदलावों का अनुरोध कर सकते हैं। वे अवधि बढ़ाने की सूचना देकर या लंबित और बिना चालान वाली मात्रा की डिलीवरी अवधि फिर से तय करके डिलीवरी का समय बदल सकते हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Buyer related for product orders]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[उत्पाद आदेशों के लिए खरीदार संबंधी बदलाव]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>This enables the buyers to initiate multiple quantity amendment requests. This also enables the buyers to exercise the following kinds of delivery period amendments -</li><li>Performance cum Extension Notice - Optional LD implications as per buyer's discretion.</li><li>Delivery Period Fixation - This re-fixes the original delivery period for the open/un-invoiced quantity, without any LD liability.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>This enables the buyers to initiate multiple quantity amendment requests. This also enables the buyers to exercise the following kinds of delivery period amendments -</li><li>Performance cum Extension Notice - Optional LD implications as per buyer's discretion.</li><li>Delivery Period Fixation - This re-fixes the original delivery period for the open/un-invoiced quantity, without any LD liability.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

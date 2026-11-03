@@ -2,21 +2,21 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[System verification of MSE status for service bids]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Important Update: System Verified MSE is Live only for Services Bids (Date -10/09/2025)]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[सेवा बोलियों में एमएसई स्थिति का प्रणाली द्वारा सत्यापन]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[For service bids published from 10 September 2025, GeM verifies MSE status using the bidder’s active profile.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[This is to inform you that the Buyer Verified MSE tag has been removed from the Technical Evaluation page. Going forward, Buyer verification of MSE will no longer be applicable in the system. Now, MSE verification will be carried out based on the Bidder’s active MSE profile, and users with valid MSE registration will have the option to upload supporting MSE documents in the services bids.]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[10 सितंबर 2025 से प्रकाशित सेवा बोलियों के लिए जेम बोलीदाता की सक्रिय प्रोफ़ाइल से एमएसई स्थिति सत्यापित करता है।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Supporting documents]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[सहायक दस्तावेज़]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Key Changes Implemented]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[लागू किए गए मुख्य बदलाव]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p>Bidders with active MSE status can upload evidence. Buyers can review the evidence during technical evaluation. Earlier bids follow the previous workflow.</p><p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p>सक्रिय एमएसई स्थिति वाले बोलीदाता प्रमाण अपलोड कर सकते हैं। खरीदार तकनीकी मूल्यांकन के दौरान प्रमाण देख सकते हैं। पहले की बोलियों पर पिछली प्रक्रिया लागू रहती है।</p><p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p>#.Buyer Verified MSE will not be available for Service Bids from now onwards.</p><p>#.MSE details will be checked and verified directly from the Bidder/Seller’s profile.</p><p>#.Only Bidders with an active MSE in their profile will get the option to upload MSE documents during participation.</p><p>#. If MSE is not active in the profile, the Bidder/Seller will receive an advisory to update their profile during bid participation.</p><p>#.Buyer will get option to view the document that has been uploaded by the Bidder. Buyer will not have option to make any action on the MSE part. Rest Seek Clarification and qualification /disqualification will be applicable as per the Bid Flow.</p><p>Note: This implementation is applicable only for the Services Bids Published from today (10-09-2025) All existing/ongoing bids will continue as per the old process</p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p>सक्रिय एमएसई स्थिति वाले बोलीदाता प्रमाण अपलोड कर सकते हैं। खरीदार तकनीकी मूल्यांकन के दौरान प्रमाण देख सकते हैं। पहले की बोलियों पर पिछली प्रक्रिया लागू रहती है।</p><div lang="en"><p>#.Buyer Verified MSE will not be available for Service Bids from now onwards.</p><p>#.MSE details will be checked and verified directly from the Bidder/Seller’s profile.</p><p>#.Only Bidders with an active MSE in their profile will get the option to upload MSE documents during participation.</p><p>#. If MSE is not active in the profile, the Bidder/Seller will receive an advisory to update their profile during bid participation.</p><p>#.Buyer will get option to view the document that has been uploaded by the Bidder. Buyer will not have option to make any action on the MSE part. Rest Seek Clarification and qualification /disqualification will be applicable as per the Bid Flow.</p><p>Note: This implementation is applicable only for the Services Bids Published from today (10-09-2025) All existing/ongoing bids will continue as per the old process</p></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

@@ -2,21 +2,21 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Primary buyer incident dashboard]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Incident Management:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[प्राथमिक खरीदार के लिए घटना डैशबोर्ड]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Primary buyers can see incidents involving secondary users, comment, request clarification and seek closure once the issue is resolved.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[प्राथमिक खरीदार द्वितीयक उपयोगकर्ताओं से जुड़ी घटनाएँ देख सकते हैं, टिप्पणी कर सकते हैं, स्पष्टीकरण माँग सकते हैं और समाधान के बाद घटना बंद करने का अनुरोध कर सकते हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Primary Buyer Dashboard: A dashboard for Incident Management is provided to Primary buyer in which he would be able to view all Incidents related to his secondary users. The Primary buyer can further comment on the incident and ask for clarification and resolution from the buyer. Once the issue is resolved buyer/primary user can ask for closure of the incident through an option provided on the panel.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Primary Buyer Dashboard: A dashboard for Incident Management is provided to Primary buyer in which he would be able to view all Incidents related to his secondary users. The Primary buyer can further comment on the incident and ask for clarification and resolution from the buyer. Once the issue is resolved buyer/primary user can ask for closure of the incident through an option provided on the panel.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

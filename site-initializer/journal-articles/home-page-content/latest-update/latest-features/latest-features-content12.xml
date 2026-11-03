@@ -2,21 +2,91 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Catalogue management updates]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Catalogue Management:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[कैटलॉग प्रबंधन में बदलाव]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Categories can offer installation, commissioning and testing as separately priced options.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[श्रेणियों में स्थापना, कमीशनिंग और परीक्षण को अलग-अलग मूल्य वाले विकल्प के रूप में दिया जा सकता है।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Catalogue rules]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[कैटलॉग के नियम]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Supply, Installation, Commissioning and Testing]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[आपूर्ति, स्थापना, कमीशनिंग और परीक्षण]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p>Changes also lock the category unit of measure, standardize rejection feedback, simplify price-on-demand rate sheets and link new uploads to caution-money status. Brand applications support registered, unregistered and unbranded products.</p><p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p>अन्य बदलावों में श्रेणी की माप इकाई स्थिर रखना, अस्वीकृति की प्रतिक्रिया का मानकीकरण, मांग पर मूल्य वाली सेवाओं की दर-सूची सरल करना और नई प्रविष्टियों को जमानत राशि की स्थिति से जोड़ना शामिल है। ब्रांड आवेदन पंजीकृत, अपंजीकृत और बिना ब्रांड वाले उत्पादों के लिए उपलब्ध हैं।</p><p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Installation, Commissioning and Testing Flag can be set by category owner in CMS.</li><li>Installation, Commissioning and Testing can be passed as individual child variants against the item</li><li>Buyer can 'uncheck' on Installation, Commissioning and Testing during bid creation. Its buyer's choice to pick any of the above.</li><li>Sellers will be required to submit prices of Installation, Commissioning and Testing with products. These will be capped b/w 3% to 10% of product value (unit level). GST and ITC is to be considered here.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p>अन्य बदलावों में श्रेणी की माप इकाई स्थिर रखना, अस्वीकृति की प्रतिक्रिया का मानकीकरण, मांग पर मूल्य वाली सेवाओं की दर-सूची सरल करना और नई प्रविष्टियों को जमानत राशि की स्थिति से जोड़ना शामिल है। ब्रांड आवेदन पंजीकृत, अपंजीकृत और बिना ब्रांड वाले उत्पादों के लिए उपलब्ध हैं।</p><div lang="en"><ul><li>Installation, Commissioning and Testing Flag can be set by category owner in CMS.</li><li>Installation, Commissioning and Testing can be passed as individual child variants against the item</li><li>Buyer can 'uncheck' on Installation, Commissioning and Testing during bid creation. Its buyer's choice to pick any of the above.</li><li>Sellers will be required to submit prices of Installation, Commissioning and Testing with products. These will be capped b/w 3% to 10% of product value (unit level). GST and ITC is to be considered here.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0002" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0002" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Unit of Measurement (UOM) update]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[माप की इकाई में बदलाव]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0002" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Unit of Measurement of a category cannot be changed once set. This is done to prevent mismatches and instances of categories having different catalogs with different UOMs.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Unit of Measurement of a category cannot be changed once set. This is done to prevent mismatches and instances of categories having different catalogs with different UOMs.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0003" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0003" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Review Product Approval Reasons]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[उत्पाद अनुमोदन के कारणों की समीक्षा]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0003" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Admin team can provide standardized and clear comments on rejection cases of catalogs and brands.</li><li>This will ensure uniform communication to all the sellers and lead to better understanding of the requirement, and thus improved TAT.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Admin team can provide standardized and clear comments on rejection cases of catalogs and brands.</li><li>This will ensure uniform communication to all the sellers and lead to better understanding of the requirement, and thus improved TAT.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0004" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0004" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Price on Demand (POD) services]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[मांग पर मूल्य वाली सेवाएँ]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0004" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Now Min and Max quantities are not required to be filled by Service Providers in the rate sheet row for services having POD.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Now Min and Max quantities are not required to be filled by Service Providers in the rate sheet row for services having POD.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0005" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0005" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Caution Money - Blocking the product upload]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[जमानत राशि के अभाव में उत्पाद अपलोड पर रोक]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0005" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Sellers who have not paid the Caution money to GeM would not be able to upload new Product/Brand. Once the Seller pays the Caution Money, the account will get automatically unlocked for new Product/Brand upload. This is applicable to all GeM sellers.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Sellers who have not paid the Caution money to GeM would not be able to upload new Product/Brand. Once the Seller pays the Caution Money, the account will get automatically unlocked for new Product/Brand upload. This is applicable to all GeM sellers.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0006" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0006" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Changes for allowing to be approved without a brand]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[बिना ब्रांड के अनुमोदन की सुविधा]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0006" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Now sellers can request brand/OEM in 3 ways - Registered, Unregistered and Unbranded. Unregistered means where the seller has a Trademark but it’s not in registered status. Here the seller has to provide an undertaking in stamp paper. Unbranded means where sellers can request for a brand without any brand name. For Unregistered and Unbranded products, upload is a two-step approval process, seller uploads a product and then it goes to the approval team for approval consent.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Now sellers can request brand/OEM in 3 ways - Registered, Unregistered and Unbranded. Unregistered means where the seller has a Trademark but it’s not in registered status. Here the seller has to provide an undertaking in stamp paper. Unbranded means where sellers can request for a brand without any brand name. For Unregistered and Unbranded products, upload is a two-step approval process, seller uploads a product and then it goes to the approval team for approval consent.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0007" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0007" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Capability to enroll as OEM without a trademarked Brand]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[ट्रेडमार्क वाले ब्रांड के बिना ओईएम पंजीकरण]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0007" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>This is same as above where seller can now request for brand without trademark in case unregistered and Unbranded.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>This is same as above where seller can now request for brand without trademark in case unregistered and Unbranded.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0008" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0008" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Changes in OEM behavior in Q3 categories]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[क्यू3 श्रेणियों में ओईएम संबंधी बदलाव]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0008" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>In Q3 categories now, if a seller has requested an OEM request from his OEM panel then only he will get the option of selling as OEM once the request is approved.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>In Q3 categories now, if a seller has requested an OEM request from his OEM panel then only he will get the option of selling as OEM once the request is approved.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

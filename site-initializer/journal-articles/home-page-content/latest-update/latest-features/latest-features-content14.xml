@@ -2,21 +2,41 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Contract amendments and signatures]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Contract Management:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[अनुबंध संशोधन और हस्ताक्षर]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Buyers can propose shorter contract durations through an amendment accompanying a cancellation request. The amendment takes effect after seller acceptance.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[खरीदार रद्दीकरण अनुरोध के साथ संशोधन भेजकर अनुबंध की अवधि घटाने का प्रस्ताव दे सकते हैं। विक्रेता की स्वीकृति के बाद संशोधन लागू होता है।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Signing]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[हस्ताक्षर]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Contract Amendment]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[अनुबंध संशोधन]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p>Digital certificates cover selected bid and fulfilment steps. Users can also sign uploaded documents using e-Mudhra.</p><p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p>डिजिटल प्रमाणपत्र का उपयोग बोली और आदेश पूर्ति के चुनिंदा चरणों में किया जा सकता है। उपयोगकर्ता ई-मुद्रा के माध्यम से अपलोड किए गए दस्तावेज़ों पर भी हस्ताक्षर कर सकते हैं।</p><p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Buyer can now generate a contract amendment letter along with Cancellation request to reduce contract duration which can be viewed by the Seller / Service Provider along with reason for cancellation. Once the seller accepts that, the amendment letter will be applicable on top of the original contract.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p>डिजिटल प्रमाणपत्र का उपयोग बोली और आदेश पूर्ति के चुनिंदा चरणों में किया जा सकता है। उपयोगकर्ता ई-मुद्रा के माध्यम से अपलोड किए गए दस्तावेज़ों पर भी हस्ताक्षर कर सकते हैं।</p><div lang="en"><ul><li>Buyer can now generate a contract amendment letter along with Cancellation request to reduce contract duration which can be viewed by the Seller / Service Provider along with reason for cancellation. Once the seller accepts that, the amendment letter will be applicable on top of the original contract.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0002" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0002" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Digital Signature Certificate]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[डिजिटल हस्ताक्षर प्रमाणपत्र]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0002" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Digital Signature provision has been implemented in GeM. The Buyer as well as Seller would have the option to verify the transactions using Digital signature. This has been enabled for Bid Publishing, Corrigendum publishing and Bid Participation. This has also been enabled for Order Placement, CRAC generation and Bill generation. This has been enabled for Order Placement, CRAC generation and Bill generation as well.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Digital Signature provision has been implemented in GeM. The Buyer as well as Seller would have the option to verify the transactions using Digital signature. This has been enabled for Bid Publishing, Corrigendum publishing and Bid Participation. This has also been enabled for Order Placement, CRAC generation and Bill generation. This has been enabled for Order Placement, CRAC generation and Bill generation as well.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0003" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0003" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[e-Sign Enhancements]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[ई-हस्ताक्षर में सुधार]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0003" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Along with OTP verification Buyer/Seller is provided an option to sign the documents uploaded by them through e-Signature portal of e-Mudhra. Digital signature verification option also provided to the Buyer/Seller.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Along with OTP verification Buyer/Seller is provided an option to sign the documents uploaded by them through e-Signature portal of e-Mudhra. Digital signature verification option also provided to the Buyer/Seller.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

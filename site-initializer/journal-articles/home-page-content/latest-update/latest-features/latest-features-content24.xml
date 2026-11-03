@@ -2,21 +2,25 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Payment and procurement integrations]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Payment Processing:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[भुगतान और खरीद प्रणालियों का एकीकरण]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Changes include TReDS bill discounting for eligible parties, Railway and CPPP integrations, upgrades to the GeM Pool Account, automated receipt and acceptance certificates, year-end PFMS fund controls and online Railway service-order payments.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[बदलावों में पात्र पक्षों के लिए टीआरईडीएस बिल डिस्काउंटिंग, रेलवे और सीपीपीपी का एकीकरण, जेम पूल खाते में सुधार, स्वतः प्राप्ति और स्वीकृति प्रमाणपत्र, वित्त वर्ष के अंत में पीएफएमएस निधि नियंत्रण और रेलवे सेवा आदेशों के ऑनलाइन भुगतान शामिल हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>TReDS has been integrated on GeM portal to allow buyers and sellers to get the bill discounting for GeM bills. The feature has been enabled for CPSU buyers and MSME sellers.</li><li>New revenue model has been implemented. More details available <a href="https://assets-bg.gem.gov.in/resources/pdf/revenue-policy.pdf">here</a>.</li><li>Integration with Railways has been enhanced to share all transaction data with railways IMMS system.</li><li>Integration with CPPP to archive unified procurement system. The bids published on CPPP will have to get GEMARPTS ID generated and verified through GeM portal. The tender details published on CPPP will also be mirrored on GeM.</li><li>GeM Availability and past transaction report has been implemented for buyers. Buyers can get this report generated for all product and category searches on GeM portal.</li><li>GPA has been upgraded to handle multiple versions enabling various functionalities.</li><li>Feature to ensure order fulfilment and payment processing at GeM in a time bound manner. This feature issues the system generated auto PRC/CRAC in case the consignee does not process the shipments within the given timeframe</li><li>Feature to allow the PFMS buyers to place their orders without blocking funds, towards the end of Financial Year. This also allows the user to trigger fund unblocking themselves, towards the end of Financial Year, for the utilization of funds elsewhere.</li><li>Enabled order and payment processing for Railways service orders online, similar to product orders</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>TReDS has been integrated on GeM portal to allow buyers and sellers to get the bill discounting for GeM bills. The feature has been enabled for CPSU buyers and MSME sellers.</li><li>New revenue model has been implemented. More details available <a href="https://assets-bg.gem.gov.in/resources/pdf/revenue-policy.pdf">here</a>.</li><li>Integration with Railways has been enhanced to share all transaction data with railways IMMS system.</li><li>Integration with CPPP to archive unified procurement system. The bids published on CPPP will have to get GEMARPTS ID generated and verified through GeM portal. The tender details published on CPPP will also be mirrored on GeM.</li><li>GeM Availability and past transaction report has been implemented for buyers. Buyers can get this report generated for all product and category searches on GeM portal.</li><li>GPA has been upgraded to handle multiple versions enabling various functionalities.</li><li>Feature to ensure order fulfilment and payment processing at GeM in a time bound manner. This feature issues the system generated auto PRC/CRAC in case the consignee does not process the shipments within the given timeframe</li><li>Feature to allow the PFMS buyers to place their orders without blocking funds, towards the end of Financial Year. This also allows the user to trigger fund unblocking themselves, towards the end of Financial Year, for the utilization of funds elsewhere.</li><li>Enabled order and payment processing for Railways service orders online, similar to product orders</li></ul></div>]]></dynamic-content>
         </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="uploadMedia" index-type="keyword" instance-id="med_0001" name="DocumentLibrary97431574" type="document_library">
+        <dynamic-content language-id="en_US"><![CDATA[[$DOCUMENT_JSON:/site-initializer/documents/group/latest-features/revenue-policy.pdf$]]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[[$DOCUMENT_JSON:/site-initializer/documents/group/latest-features/revenue-policy.pdf$]]]></dynamic-content>
     </dynamic-element>
 </root>

@@ -2,21 +2,11 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Advance notice for reverse auctions]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[RA to be initiated after 24 hours]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[रिवर्स नीलामी की अग्रिम सूचना]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[A reverse auction starts 24 hours after the buyer initiates it. GeM notifies both parties of the start and end dates.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Some cases have been reported where bidders have claimed non receipt of prior intimation of RA start. In order to ensure that no prospective eligible bidder is left out due to non intimation on time, it has been decide that RA will henceforth start 24 hours after the buyer proceeds for the RA creation and initiated RA. RA Start date and End Date will be notified to both buyer and sellers.]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[खरीदार की पहल के 24 घंटे बाद रिवर्स नीलामी शुरू होती है। जेम दोनों पक्षों को आरंभ और समाप्ति की तारीखें बताता है।]]></dynamic-content>
-    </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
-        </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
-        </dynamic-element>
     </dynamic-element>
 </root>

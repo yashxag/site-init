@@ -2,21 +2,21 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Service purchasing enhancements]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Services Enhancements:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[सेवा खरीद में सुधार]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Buyers can purchase single-day services, select multiple consignees for direct purchases, schedule pre-bid meetings for eligible services and request cancellation before service starts. GeM also added a floor-price preview.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[खरीदार एक दिन की सेवा खरीद सकते हैं, सीधी खरीद में कई प्राप्तकर्ता चुन सकते हैं, पात्र सेवाओं के लिए बोली-पूर्व बैठक तय कर सकते हैं और सेवा शुरू होने से पहले रद्दीकरण का अनुरोध कर सकते हैं। जेम ने न्यूनतम मूल्य का पूर्वावलोकन भी जोड़ा।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#explore">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#explore">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Services can be procured for a single day, i.e. start and end date of service could be same.</li><li>Multiple consignee’s can be selected in marketplace for procuring a service through direct purchase.</li><li>Buyers can select option for Pre Bid meeting for certain services during bidding Process.</li><li>Buyer has an option to request for cancellation of service before service start date in case the service is not required after generation of contract.</li><li>Floor Price Capability for Service base price and add-ons with calculations preview</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Services can be procured for a single day, i.e. start and end date of service could be same.</li><li>Multiple consignee’s can be selected in marketplace for procuring a service through direct purchase.</li><li>Buyers can select option for Pre Bid meeting for certain services during bidding Process.</li><li>Buyer has an option to request for cancellation of service before service start date in case the service is not required after generation of contract.</li><li>Floor Price Capability for Service base price and add-ons with calculations preview</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

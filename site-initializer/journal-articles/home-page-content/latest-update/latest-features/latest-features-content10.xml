@@ -2,21 +2,161 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Bidding process updates]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Bidding Process:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[बोली प्रक्रिया में बदलाव]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[GeM added technical evaluation reporting, approved negotiation with the lowest bidder, buyback and automated selection among tied service bidders.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[जेम ने तकनीकी मूल्यांकन रिपोर्ट, सबसे कम बोलीदाता से अनुमोदित बातचीत, बायबैक और समान न्यूनतम बोली वाले सेवा प्रदाताओं का स्वचालित चयन जोड़ा है।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Bid options]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[बोली के विकल्प]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Techno- Commercial Loading in Bids (Load Based Bidding):]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[बोलियों में तकनीकी-वाणिज्यिक लोडिंग]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p>Other changes cover MSE preference in services, validity extensions, splitting bids when moving to reverse auction, fixed GST rates during reverse auction and a ten-day minimum end date for custom bids.</p><p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p>अन्य बदलावों में सेवाओं के लिए एमएसई वरीयता, वैधता बढ़ाना, रिवर्स नीलामी में जाते समय बोली विभाजन, नीलामी के दौरान जीएसटी दर स्थिर रखना और कस्टम बोलियों के लिए कम से कम दस दिन की अवधि शामिल हैं।</p><p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p>Bids are currently being evaluated on GeM based on the price quoted by the bidder at the time of bid participation. However, there are some use cases when the buyer publishes a bid and expects certain technical and commercial parameters to be used to evaluate the price, resulting in the evaluated price being different from the bidder's offered price. To capture detailed technical and commercial parameters, GeM has added another feature whereby a buyer can declare the Technical and Commercial Loading Criteria for Bid Evaluation during Bid Creation itself, which will be printed for the bidders' reference in the Bid document.</p><ul><li>Buyers can now declare the Techno Commercial Loading Criteria for Bid Evaluation at the time of bid creation (specific-limited categories, as configured by GeM Category Owners). These details shall be printed in the bid document itself for the bidders' reference.</li><li>This feature is designed to remain as an optional choice applicable for procurement through bids alone and is not available for procurement modes such as Direct/L1. If load-based bidding is selected, BID to RA will and ITC based evaluation are disabled with load based bidding.</li><li>Buyer is required to mention the loading criteria and upload a file depicting the buyer(s) calculation when loading the Techno-Commercial parameters.</li><li>Bidders shall have to upload documents like financial and technical document pertaining to the criteria for loading in financial evaluation at the time of Upload documents during Seller Participation. Financial documents shall be visible to the Buyer during financial evaluation alone.</li><li>The buyer can enter the evaluated price post loading for each bidder and notify the Participated Bidders. There is provision for bidder representation and subsequent revision of the evaluated price to account for loading factor(s).</li><li>The buyer(s) must publish final evaluated prices prior to the creation of demand and order processing.</li><li>This Feature will be used by the buyer for the limited categories available in the GeM marketplace.</li><li>Categories where Load based will be applicable - BIOMASS and types of pumps like HSD, Screw , Fuel, Petrol pump</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p>अन्य बदलावों में सेवाओं के लिए एमएसई वरीयता, वैधता बढ़ाना, रिवर्स नीलामी में जाते समय बोली विभाजन, नीलामी के दौरान जीएसटी दर स्थिर रखना और कस्टम बोलियों के लिए कम से कम दस दिन की अवधि शामिल हैं।</p><div lang="en"><p>Bids are currently being evaluated on GeM based on the price quoted by the bidder at the time of bid participation. However, there are some use cases when the buyer publishes a bid and expects certain technical and commercial parameters to be used to evaluate the price, resulting in the evaluated price being different from the bidder's offered price. To capture detailed technical and commercial parameters, GeM has added another feature whereby a buyer can declare the Technical and Commercial Loading Criteria for Bid Evaluation during Bid Creation itself, which will be printed for the bidders' reference in the Bid document.</p><ul><li>Buyers can now declare the Techno Commercial Loading Criteria for Bid Evaluation at the time of bid creation (specific-limited categories, as configured by GeM Category Owners). These details shall be printed in the bid document itself for the bidders' reference.</li><li>This feature is designed to remain as an optional choice applicable for procurement through bids alone and is not available for procurement modes such as Direct/L1. If load-based bidding is selected, BID to RA will and ITC based evaluation are disabled with load based bidding.</li><li>Buyer is required to mention the loading criteria and upload a file depicting the buyer(s) calculation when loading the Techno-Commercial parameters.</li><li>Bidders shall have to upload documents like financial and technical document pertaining to the criteria for loading in financial evaluation at the time of Upload documents during Seller Participation. Financial documents shall be visible to the Buyer during financial evaluation alone.</li><li>The buyer can enter the evaluated price post loading for each bidder and notify the Participated Bidders. There is provision for bidder representation and subsequent revision of the evaluated price to account for loading factor(s).</li><li>The buyer(s) must publish final evaluated prices prior to the creation of demand and order processing.</li><li>This Feature will be used by the buyer for the limited categories available in the GeM marketplace.</li><li>Categories where Load based will be applicable - BIOMASS and types of pumps like HSD, Screw , Fuel, Petrol pump</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0002" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0002" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Item wise Evaluation in Services:]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[सेवाओं का मदवार मूल्यांकन]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0002" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Provision for item wise evaluation is made available for Service Bids.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Provision for item wise evaluation is made available for Service Bids.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0003" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0003" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[BOQ Bidding with Multiple Evaluation Methods:]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[कई मूल्यांकन विधियों के साथ बीओक्यू बोली]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0003" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>GeM provides the Purchaser/Buyer with the facility of selection from a variety of Evaluation Methods viz-a-viz Total Value wise, Item wise &amp; Group wise for BOQ based bidding (Estimate Value=&gt;INR 5 Lacs).</li><li>Splitting/MSE-MII Preference selection is now manageable with easy selectable steps.</li><li>Thus the Buyer can now place the desired items at his/her discretion under a particular schedule.</li><li>Flexibility is provided for the Sellers to participate in the desired Schedule at their own discretion without putting restriction in the case of Item/Group wise evaluation thereby expanding the strength of number of Vendor/Seller participants.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>GeM provides the Purchaser/Buyer with the facility of selection from a variety of Evaluation Methods viz-a-viz Total Value wise, Item wise &amp; Group wise for BOQ based bidding (Estimate Value=&gt;INR 5 Lacs).</li><li>Splitting/MSE-MII Preference selection is now manageable with easy selectable steps.</li><li>Thus the Buyer can now place the desired items at his/her discretion under a particular schedule.</li><li>Flexibility is provided for the Sellers to participate in the desired Schedule at their own discretion without putting restriction in the case of Item/Group wise evaluation thereby expanding the strength of number of Vendor/Seller participants.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0004" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0004" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Input Tax Credit (ITC) /Reverse Charge Mechanism (RCM):]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[इनपुट टैक्स क्रेडिट और रिवर्स चार्ज तंत्र]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0004" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Stakeholders can now enjoy the automation implemented for shortlisting lowest evaluated bidder (Price wise) on the Basis of ITC available with the Buyer considering either FCM (Forward Charge Mechanism)/RCM (Reverse Charge Mechanism).</li><li>Buyer can select the percentage of ITC Component available on the GST, GST cess &amp; publish the same in the Tender document for the benefit of all the stakeholders.</li><li>By virtue of this feature the Buyer gets to know through automated calculation &amp; arriving at the Lowest Bidder without having the need to do any offline calculation thus saving the stakeholder’s both time &amp; efforts.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Stakeholders can now enjoy the automation implemented for shortlisting lowest evaluated bidder (Price wise) on the Basis of ITC available with the Buyer considering either FCM (Forward Charge Mechanism)/RCM (Reverse Charge Mechanism).</li><li>Buyer can select the percentage of ITC Component available on the GST, GST cess &amp; publish the same in the Tender document for the benefit of all the stakeholders.</li><li>By virtue of this feature the Buyer gets to know through automated calculation &amp; arriving at the Lowest Bidder without having the need to do any offline calculation thus saving the stakeholder’s both time &amp; efforts.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0005" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0005" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Provision for Uploading Technical Evaluation Report:]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[तकनीकी मूल्यांकन रिपोर्ट अपलोड करने की सुविधा]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0005" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Buyer(s) have been provided with the facility to upload detailed Technical Evaluation Report (TER-Pdf File-Max Size 5 MB-Non-Optional) for both Goods &amp; Services. Thus the Buyer shall now be able to detail out the observations &amp; maintain the Technical comparison sheet which depicts the result of the findings from the demonstrations conducted at the Buyer premises/On Site/Seller’s premises/factory visit etc as put up in the ATC Clause(Buyer added specific ATC Clause) by the Suppliers/Bidders/Sellers all under one roof.</li><li>The TER is an internal document and shall be visible to the Purchaser/Buying authority alone.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Buyer(s) have been provided with the facility to upload detailed Technical Evaluation Report (TER-Pdf File-Max Size 5 MB-Non-Optional) for both Goods &amp; Services. Thus the Buyer shall now be able to detail out the observations &amp; maintain the Technical comparison sheet which depicts the result of the findings from the demonstrations conducted at the Buyer premises/On Site/Seller’s premises/factory visit etc as put up in the ATC Clause(Buyer added specific ATC Clause) by the Suppliers/Bidders/Sellers all under one roof.</li><li>The TER is an internal document and shall be visible to the Purchaser/Buying authority alone.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0006" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0006" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Provision for Negotiation(s) with the Lowest (L1) Bidder:]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[सबसे कम बोलीदाता से बातचीत की सुविधा]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0006" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Buyer(s) have been provided with the facility to carry out Price negotiations with the Lowest (L1) Bidder for both Goods [Product/AMC/CMC] &amp; Services.</li><li>GeM is committed to abiding with the GFR Rule 173 (xiv) so also keeping in line with the CVC guidelines does not indulge in encouragement of negotiations except in ad- hoc conditions with the prior approval of Competent Authority (CA) clearly capturing the reason for undergoing negotiations with the lowest evaluated responsive bidder.</li><li>In line with above viewpoint, GeM has designed an Online Negotiation system possible with the lowest bidder provided approval of CA is in place for such L1 negotiation(s) request.</li><li>Negotiation window duration is kept open for a duration 72 hrs. for the Bidder/Seller to response. Maximum No of Negotiation Attempts permissible being five.</li><li>Negotiations on the discretion of the Purchaser /Buyer can be carried out on the individual prices of the Product to be procured as well on the rates of the AMC/CMC &amp; revised rates for all the components i.e. Products, AMC/CMC can be submitted by the bidder.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Buyer(s) have been provided with the facility to carry out Price negotiations with the Lowest (L1) Bidder for both Goods [Product/AMC/CMC] &amp; Services.</li><li>GeM is committed to abiding with the GFR Rule 173 (xiv) so also keeping in line with the CVC guidelines does not indulge in encouragement of negotiations except in ad- hoc conditions with the prior approval of Competent Authority (CA) clearly capturing the reason for undergoing negotiations with the lowest evaluated responsive bidder.</li><li>In line with above viewpoint, GeM has designed an Online Negotiation system possible with the lowest bidder provided approval of CA is in place for such L1 negotiation(s) request.</li><li>Negotiation window duration is kept open for a duration 72 hrs. for the Bidder/Seller to response. Maximum No of Negotiation Attempts permissible being five.</li><li>Negotiations on the discretion of the Purchaser /Buyer can be carried out on the individual prices of the Product to be procured as well on the rates of the AMC/CMC &amp; revised rates for all the components i.e. Products, AMC/CMC can be submitted by the bidder.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0007" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0007" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Provision for the Buyback:]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[बायबैक की सुविधा]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0007" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>In line with the GFR Rule 176, GeM has made it possible for the Purchaser/Buyer to replace an old item(s) with a new &amp; better version by introducing ‘Buyback’ feature in its design System.</li><li>The Buying department can thus trade with the existing old item while purchasing the new one with approval of a Competent Authority (CA).</li><li>Enabled at Category level, this easy to use feature brings forth value addition on the table of the Purchaser expediting the decision making in terms of Net benefit derived in the Procurement deal.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>In line with the GFR Rule 176, GeM has made it possible for the Purchaser/Buyer to replace an old item(s) with a new &amp; better version by introducing ‘Buyback’ feature in its design System.</li><li>The Buying department can thus trade with the existing old item while purchasing the new one with approval of a Competent Authority (CA).</li><li>Enabled at Category level, this easy to use feature brings forth value addition on the table of the Purchaser expediting the decision making in terms of Net benefit derived in the Procurement deal.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0008" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0008" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Re-Run Option:]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[चयन दोबारा चलाने का विकल्प]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0008" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>In case of multiple L1 bidders against a service bid, the buyer will have to use 'Run L1 selection' feature wherein the system would randomly identify a L1 seller. It works on pseudorandom number generator algorithms which is the system generator based on linear congruential algorithm.</li><li>The system selected L1 bidder is required to confirm within 72 hours whether he is willing to execute the contract. If he says “No” or does not reply, system will enable Re-Run L1. This process will continue till the system selected L1 bidder confirms the willingness for execution of contract. Suitable action is taken against the defaulter bidders as per the Incident Management Policy of GeM.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>In case of multiple L1 bidders against a service bid, the buyer will have to use 'Run L1 selection' feature wherein the system would randomly identify a L1 seller. It works on pseudorandom number generator algorithms which is the system generator based on linear congruential algorithm.</li><li>The system selected L1 bidder is required to confirm within 72 hours whether he is willing to execute the contract. If he says “No” or does not reply, system will enable Re-Run L1. This process will continue till the system selected L1 bidder confirms the willingness for execution of contract. Suitable action is taken against the defaulter bidders as per the Incident Management Policy of GeM.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0009" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0009" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[L1 Determination from “Multiple L1” bidders in Services:]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[सेवाओं में समान न्यूनतम बोलीदाताओं में एल1 का निर्धारण]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0009" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>&quot;Run L1” i.e. L1 determination based on Random Algorithm run by GeM, can be executed unlimited number of times by the Buyer.</li><li>The option to place contract on any of the L-1 bidders, manually selected by Buyer is revoked.</li><li>For the bids created with MSE preference as per Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012, “Run L1” will be executed among “multiple L1” MSE Service Providers only till the last eligible Service Provider remains</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>&quot;Run L1” i.e. L1 determination based on Random Algorithm run by GeM, can be executed unlimited number of times by the Buyer.</li><li>The option to place contract on any of the L-1 bidders, manually selected by Buyer is revoked.</li><li>For the bids created with MSE preference as per Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012, “Run L1” will be executed among “multiple L1” MSE Service Providers only till the last eligible Service Provider remains</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0010" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0010" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[MSE Functionality in Services]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[सेवाओं में एमएसई की सुविधा]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0010" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>GeM brings before you the good news of implementation of MSE Preference for Service orders as available for the Goods too.</li><li>Central government Buyer shall have to upload an approval of competent authority stating the reason for bypassing the MSE Preference.</li><li>While State Government Buyers can also select MSE preference though the selection remains Optional.</li><li>MSE preference provided on the total value including add-on and based on that, price matching will be done on total value.</li><li>If L-1 is not an MSE and MSE Seller (s) has/have quoted price(s) within L-1+ x% of margin of purchase preference as defined in the relevant policy, the buyer may with the approval of his competent authority, decide to award 100% order quantity on such service provider, provided such MSE bidder accepts the counter offer price of Non-MSE L1 bidder.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>GeM brings before you the good news of implementation of MSE Preference for Service orders as available for the Goods too.</li><li>Central government Buyer shall have to upload an approval of competent authority stating the reason for bypassing the MSE Preference.</li><li>While State Government Buyers can also select MSE preference though the selection remains Optional.</li><li>MSE preference provided on the total value including add-on and based on that, price matching will be done on total value.</li><li>If L-1 is not an MSE and MSE Seller (s) has/have quoted price(s) within L-1+ x% of margin of purchase preference as defined in the relevant policy, the buyer may with the approval of his competent authority, decide to award 100% order quantity on such service provider, provided such MSE bidder accepts the counter offer price of Non-MSE L1 bidder.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0011" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0011" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Bid offer Validity Extension]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[बोली प्रस्ताव की वैधता बढ़ाना]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0011" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Bid offer validity extension request can now be sent by the Buyer/Purchaser to the Seller/Bidder during the stage of Technical as well as Financial Evaluation.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Bid offer validity extension request can now be sent by the Buyer/Purchaser to the Seller/Bidder during the stage of Technical as well as Financial Evaluation.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0012" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0012" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Bid Validity Extension]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[बोली की वैधता बढ़ाना]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0012" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Earlier, the system allowed bid extension upto 69 Days only. This check has been removed, so buyers can extend bids without any restriction.</li><li>Buyers may now seek online offer validity extension from the seller(s) prior to contract creation.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Earlier, the system allowed bid extension upto 69 Days only. This check has been removed, so buyers can extend bids without any restriction.</li><li>Buyers may now seek online offer validity extension from the seller(s) prior to contract creation.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0013" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0013" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Split in Bid to RA]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[रिवर्स नीलामी में बोली विभाजन]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0013" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Splitting option with Bid to RA is now available for Buyers during bid creation.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Splitting option with Bid to RA is now available for Buyers during bid creation.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0014" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0014" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[GST % in Bid]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[बोली में जीएसटी प्रतिशत]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0014" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>GST Component is captured in percentage from the Seller during Bid participation. This GST component shall remain fixed and Seller shall not be allowed to make any changes during RA.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>GST Component is captured in percentage from the Seller during Bid participation. This GST component shall remain fixed and Seller shall not be allowed to make any changes during RA.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0015" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0015" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Custom bids]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[कस्टम बोलियाँ]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0015" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Buyer can configure the Bid End date to a minimum of 10 days in the system.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Buyer can configure the Bid End date to a minimum of 10 days in the system.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

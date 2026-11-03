@@ -2,21 +2,21 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Country of origin and local content]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Country of Origin:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[मूल देश और स्थानीय सामग्री]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Catalogue owners must provide the country of origin. Buyers can check local-content percentages and use the Make in India filter.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[कैटलॉग मालिकों को उत्पाद का मूल देश बताना होगा। खरीदार स्थानीय सामग्री का प्रतिशत देख सकते हैं और मेक इन इंडिया फ़िल्टर का उपयोग कर सकते हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>In a push to promote local products, GeM has made it mandatory for all the catalog owners to mandatorily update Country of Origin information on its marketplace.</li><li>This information was already mandatory for new product registration.</li><li>Buyers on the platform can now see the percentage of local content in various products. They can also switch on a new Make in India filter to see products that match their preferences on local content.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>In a push to promote local products, GeM has made it mandatory for all the catalog owners to mandatorily update Country of Origin information on its marketplace.</li><li>This information was already mandatory for new product registration.</li><li>Buyers on the platform can now see the percentage of local content in various products. They can also switch on a new Make in India filter to see products that match their preferences on local content.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

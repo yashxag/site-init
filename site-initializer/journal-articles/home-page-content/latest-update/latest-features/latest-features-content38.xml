@@ -2,21 +2,21 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Registration and contact enhancements]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Registration Process Enhancements:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[पंजीकरण और संपर्क में सुधार]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[GeM introduced income-tax return verification exemptions for eligible proprietors, primary-buyer requests for secondary buyer email accounts and an alternate seller contact number.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[जेम ने पात्र एकल स्वामियों के लिए आयकर रिटर्न सत्यापन की छूट, प्राथमिक खरीदारों के लिए द्वितीयक खरीदारों के ईमेल खाते का अनुरोध और विक्रेताओं के लिए वैकल्पिक संपर्क नंबर की सुविधा शुरू की।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#explore">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#explore">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>ITR Verification exemption during Registration of proprietors from North-East states, J&amp;K and Laddakh UT.</li><li>Primary buyer can initiate the request for gembuyer.in email ID creation for secondary buyers</li><li>To make it easy and fast for primary buyer(s) to request gembuyer.in email ID creation for secondary buyers not having gov.in / nic.in email domains.</li><li>Alternate Contact Number can be provided by Seller</li><li>Seller can now provide alternate contact number, which could be a landline number, in order for buyer to contact them in case of any query.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>ITR Verification exemption during Registration of proprietors from North-East states, J&amp;K and Laddakh UT.</li><li>Primary buyer can initiate the request for gembuyer.in email ID creation for secondary buyers</li><li>To make it easy and fast for primary buyer(s) to request gembuyer.in email ID creation for secondary buyers not having gov.in / nic.in email domains.</li><li>Alternate Contact Number can be provided by Seller</li><li>Seller can now provide alternate contact number, which could be a landline number, in order for buyer to contact them in case of any query.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

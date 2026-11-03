@@ -2,21 +2,11 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[GeM integration with TReDS exchanges]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Linkage between GeM and TReDS Exchanges]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[जेम और टीआरईडीएस एक्सचेंजों का एकीकरण]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Sellers can update their onboarding status in the TReDS section of their GeM profile.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Integration of GeM with TReDS Exchanges is live. Log in to GeM and update onboarding status under Profile -> TReDS section.]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[विक्रेता अपनी जेम प्रोफ़ाइल के टीआरईडीएस अनुभाग में पंजीकरण की स्थिति अपडेट कर सकते हैं।]]></dynamic-content>
-    </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
-        </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
-        </dynamic-element>
     </dynamic-element>
 </root>

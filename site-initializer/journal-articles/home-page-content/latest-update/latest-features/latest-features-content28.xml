@@ -2,21 +2,21 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Official air travel booking]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Air Ticket Booking:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[आधिकारिक हवाई यात्रा की बुकिंग]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Buyers can book official travel through integrated providers MakeMyTrip and Yatra and pay by net banking or card.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[खरीदार मेकमाइट्रिप और यात्रा के माध्यम से आधिकारिक हवाई यात्रा बुक कर सकते हैं और नेट बैंकिंग या कार्ड से भुगतान कर सकते हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Air Ticket Booking using Net Banking/ Debit Card/ Credit Card payment modes is available to buyers for official visits using third party aggregators integrated on GeM. Currently, Air Ticket Booking is Live with MMT and Yatra. Post Login “Air Ticket Booking” option is available from Buyer’s Dashboard and also under Product / Service tab.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Air Ticket Booking using Net Banking/ Debit Card/ Credit Card payment modes is available to buyers for official visits using third party aggregators integrated on GeM. Currently, Air Ticket Booking is Live with MMT and Yatra. Post Login “Air Ticket Booking” option is available from Buyer’s Dashboard and also under Product / Service tab.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

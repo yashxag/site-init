@@ -2,21 +2,91 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Bidding enhancements]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Bidding Process:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[बोली प्रक्रिया में सुधार]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[GeM added maintenance-cost evaluation for medical equipment, support for freight-intensive bids, longer delivery windows and EMD exemption checks.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[जेम ने चिकित्सा उपकरणों की रखरखाव लागत का मूल्यांकन, अधिक मालभाड़े वाली बोलियों की सुविधा, लंबी डिलीवरी अवधि और ईएमडी छूट की जाँच जोड़ी।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Bid terms and participation]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
             <dynamic-content language-id="hi_IN"><![CDATA[बोली की शर्तें और भागीदारी]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p>Changes cover the terms library, buyback, OEM participation thresholds, approval for additional terms, reference prices and bid closing dates.</p><p><a href="https://gem.gov.in/latest#explore">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p>बदलावों में शर्तों की लाइब्रेरी, बायबैक, ओईएम भागीदारी की न्यूनतम सीमा, अतिरिक्त शर्तों की मंज़ूरी, संदर्भ मूल्य और बोली की अंतिम तारीखें शामिल हैं।</p><p><a href="https://gem.gov.in/latest#explore">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>GeM introduces CMC (Comprehensive Maintenance Cost) based evaluation for Medical equipment upto 5 years.</li><li>Bid Enhancements for supporting Freight intensive items such as Steel, Cement etc. made available on GeM</li><li>At the time of bid creation buyer can now choose delivery period upto 180 days.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p>बदलावों में शर्तों की लाइब्रेरी, बायबैक, ओईएम भागीदारी की न्यूनतम सीमा, अतिरिक्त शर्तों की मंज़ूरी, संदर्भ मूल्य और बोली की अंतिम तारीखें शामिल हैं।</p><div lang="en"><ul><li>GeM introduces CMC (Comprehensive Maintenance Cost) based evaluation for Medical equipment upto 5 years.</li><li>Bid Enhancements for supporting Freight intensive items such as Steel, Cement etc. made available on GeM</li><li>At the time of bid creation buyer can now choose delivery period upto 180 days.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0002" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0002" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[EMD Exemption Workflow]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[ईएमडी छूट की प्रक्रिया]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0002" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Buyers can now validate sellers credentials if they are eligible for exemption of EMD in technical evaluation.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Buyers can now validate sellers credentials if they are eligible for exemption of EMD in technical evaluation.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0003" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0003" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[ATC Library - revamped]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[एटीसी लाइब्रेरी में सुधार]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0003" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>ATC library revamped with clause(s) most frequently used by buyers. Clause(s) are grouped under relevant tabs for easy consumption by buyers.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>ATC library revamped with clause(s) most frequently used by buyers. Clause(s) are grouped under relevant tabs for easy consumption by buyers.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0004" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0004" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[ATC for Buyback]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[बायबैक के लिए एटीसी]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0004" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Additional Terms and Conditions for buyback added in ATC library for buyers to easily pick and include in bid.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Additional Terms and Conditions for buyback added in ATC library for buyers to easily pick and include in bid.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0005" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0005" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Bid / RA – OEM / Reseller Participation]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[बोली या रिवर्स नीलामी में ओईएम और पुनर्विक्रेता की भागीदारी]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0005" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>To improve fair participation in Bid / RA, GeM now ensures that at least 3 sellers have participated and offered products from at least 2 different OEMs. In case buyer wants to proceed with less than 3 Resellers or two OEMs/Brand, they have to upload approval from Competent Authority.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>To improve fair participation in Bid / RA, GeM now ensures that at least 3 sellers have participated and offered products from at least 2 different OEMs. In case buyer wants to proceed with less than 3 Resellers or two OEMs/Brand, they have to upload approval from Competent Authority.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0006" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0006" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Bid / RA – ATC request Approval]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[बोली या रिवर्स नीलामी के एटीसी अनुरोध की मंज़ूरी]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0006" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Buyers shall take necessary approval from competent authority before placing request on GeM for additional Terms and Conditions w.r.t Bid.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Buyers shall take necessary approval from competent authority before placing request on GeM for additional Terms and Conditions w.r.t Bid.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0007" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0007" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Allow Buyer to pick any seller's price offering as reference for Bid:]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[बोली के संदर्भ के लिए विक्रेता की पेशकश चुनना]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0007" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Buyer are now provided with an option to choose any price offering from the catalog as reference price for the Bid, in order to reduce chances of bid failure due to lack of participation by opting for a price that is not unreasonable.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Buyer are now provided with an option to choose any price offering from the catalog as reference price for the Bid, in order to reduce chances of bid failure due to lack of participation by opting for a price that is not unreasonable.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0008" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0008" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Enable Bid End date selection by the Buyer]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[खरीदार द्वारा बोली की अंतिम तारीख चुनना]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0008" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Now buyers can select bid duration between 10 to 21 days.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Now buyers can select bid duration between 10 to 21 days.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

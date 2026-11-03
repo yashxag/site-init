@@ -2,21 +2,31 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Indentor and technical evaluator roles]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[New User Roles Introduced in GeM:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[मांगकर्ता और तकनीकी मूल्यांकनकर्ता की भूमिकाएँ]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[An indentor can prepare a cart and send it to a buyer. Buyers can choose to evaluate bids themselves or assign technical evaluation to a committee.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[मांगकर्ता कार्ट तैयार करके खरीदार को भेज सकता है। खरीदार स्वयं बोलियों का मूल्यांकन कर सकते हैं या तकनीकी मूल्यांकन किसी समिति को सौंप सकते हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Indentor Role for Cart Creation:]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[कार्ट बनाने के लिए मांगकर्ता की भूमिका]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p>A new user role is created under HOD on GeM for searching and adding the product to the Cart on GeM Portal.</p><ul><li>The cart can then further be transferred online to the selected buyer for further processing.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><p>A new user role is created under HOD on GeM for searching and adding the product to the Cart on GeM Portal.</p><ul><li>The cart can then further be transferred online to the selected buyer for further processing.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0002" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0002" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Technical Evaluator Role for Bid Evaluation:]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[बोली मूल्यांकन के लिए तकनीकी मूल्यांकनकर्ता की भूमिका]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0002" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p>GeM has brought in new user role of Technical Evaluator for enabling Technical Members/Tender Committee of the Buyer</p><p>for evaluation of Bids.</p><ul><li>This being an optional choice, Buyer can either choose ‘Self-evaluation’ or the ‘Tender committee’</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><p>GeM has brought in new user role of Technical Evaluator for enabling Technical Members/Tender Committee of the Buyer</p><p>for evaluation of Bids.</p><ul><li>This being an optional choice, Buyer can either choose ‘Self-evaluation’ or the ‘Tender committee’</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

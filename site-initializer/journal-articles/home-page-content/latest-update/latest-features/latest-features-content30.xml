@@ -2,21 +2,21 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Seller and service provider ratings]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Rating a seller / service provider on GeM:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[विक्रेता और सेवा प्रदाता की रेटिंग]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Buyers and consignees can rate a supplier during acceptance or invoicing. These ratings contribute to the supplier’s overall portal score.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[खरीदार और माल प्राप्तकर्ता स्वीकृति या चालान के समय आपूर्तिकर्ता को रेटिंग दे सकते हैं। ये रेटिंग पोर्टल पर आपूर्तिकर्ता के कुल स्कोर में जुड़ती हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Buyer/Consignee is now able to rate a seller/ service provider for a product/ service on a regular basis during CRAC/ invoicing. The ratings provided will impact the overall seller rating generated for the seller at the portal. This will in turn help other buyers on the portal in making procurement decisions in a product/ service category.Click <a href="https://gem.gov.in/user_feedback">here</a> to rate a Seller / Service provider.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Buyer/Consignee is now able to rate a seller/ service provider for a product/ service on a regular basis during CRAC/ invoicing. The ratings provided will impact the overall seller rating generated for the seller at the portal. This will in turn help other buyers on the portal in making procurement decisions in a product/ service category.Click <a href="https://gem.gov.in/user_feedback">here</a> to rate a Seller / Service provider.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

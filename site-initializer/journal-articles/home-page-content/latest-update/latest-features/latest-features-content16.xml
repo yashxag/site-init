@@ -2,21 +2,31 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[E-invoicing and price variation]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Order Management:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[ई-चालान और मूल्य परिवर्तन]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Sellers declare their e-invoicing status in their profiles. For eligible bids with price variation clauses, sellers can submit revised unit prices and evidence for buyer approval during billing.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[विक्रेता अपनी प्रोफ़ाइल में ई-चालान की स्थिति बताते हैं। मूल्य परिवर्तन खंड वाली पात्र बोलियों के लिए वे बिल बनाते समय खरीदार की मंज़ूरी हेतु संशोधित इकाई मूल्य और प्रमाण दे सकते हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[e-Invoicing on GeM]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[जेम पर ई-चालान]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>E-invoicing option shall be provided for Sellers to declare whether they are liable for e-invoicing or not in the Seller profile section.</li><li>Seller profile section shall be incomplete unless a seller provides the declaration.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>E-invoicing option shall be provided for Sellers to declare whether they are liable for e-invoicing or not in the Seller profile section.</li><li>Seller profile section shall be incomplete unless a seller provides the declaration.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0002" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0002" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[PVC Request initiated by seller at the time of invoicing]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[चालान बनाते समय विक्रेता का पीवीसी अनुरोध]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0002" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Price Variation Clauses (PVC) are used in settling claims between Buyer and Seller for variation in the basic price of raw materials from the period of Bidding till the date of delivery.</li><li>Category Owner will enable the PVC against the particular category for which PVC is applicable and buyer will get an option to select whether they want to add the PVC applicability clause against that BID or not.</li><li>If Buyer selects “Yes”, then PVC is applicable for that bid order, buyer will be required to enter the text of the applicable PVC clause in a text box or will upload the pdf of PVC clause which will be published in the bid as well as contract.</li><li>Sellers will get an option to update this “Unit Price” (PVC revised rates) along with the supporting document upload feature. Buyer’s consent is required at the time of bill processing for this revised price and accordingly buyer can make the payment.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Price Variation Clauses (PVC) are used in settling claims between Buyer and Seller for variation in the basic price of raw materials from the period of Bidding till the date of delivery.</li><li>Category Owner will enable the PVC against the particular category for which PVC is applicable and buyer will get an option to select whether they want to add the PVC applicability clause against that BID or not.</li><li>If Buyer selects “Yes”, then PVC is applicable for that bid order, buyer will be required to enter the text of the applicable PVC clause in a text box or will upload the pdf of PVC clause which will be published in the bid as well as contract.</li><li>Sellers will get an option to update this “Unit Price” (PVC revised rates) along with the supporting document upload feature. Buyer’s consent is required at the time of bill processing for this revised price and accordingly buyer can make the payment.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

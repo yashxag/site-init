@@ -2,21 +2,21 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Supplementary invoices and shipment tracking]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Order Management:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[पूरक चालान और खेप की निगरानी]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Sellers can invoice replacement quantities separately and generate QR-coded dispatch slips. Buyer dashboards show separate views for MSE dues, acceptance dues and payments made.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[विक्रेता बदली गई मात्रा का अलग चालान और क्यूआर कोड वाली प्रेषण पर्ची बना सकते हैं। खरीदार डैशबोर्ड में एमएसई के बकाया भुगतान, लंबित स्वीकृतियाँ और किए गए भुगतान अलग-अलग दिखते हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>If consignee rejects any quantity during PRC/CRAC and seller is delivering the rejected item again, then the consignee doesn’t have option to edit the PRC/CRAC or generate a separate PRC/CRAC for the rejected items, to overcome this problem,GeM has introduced a supplementary invoice creation functionality by seller so that the seller would able to generate a 'Supplementary Invoice' against the rejected quantity.</li><li>Buyer/Consignee can use the QR code to track the dispatched goods. The Consignee would be able to scan the QR code using Mobile QR Code Scanner application (refer Appendix for QR scanner apps) to see the details of the consignment. To track the shipment at buyers/consignee end, sellers may generate the dispatch slip with basic Consignee, Order and Shipment information and Sellers may attach dispatch slips along with shipments.</li><li>Buyer/HOD is now able to view the MSE Payment due,CRAC due and Payment Paid chart separately in their dashboard. Also payment authority will able to view the payment dashboard after login under acceptance and payments due section.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>If consignee rejects any quantity during PRC/CRAC and seller is delivering the rejected item again, then the consignee doesn’t have option to edit the PRC/CRAC or generate a separate PRC/CRAC for the rejected items, to overcome this problem,GeM has introduced a supplementary invoice creation functionality by seller so that the seller would able to generate a 'Supplementary Invoice' against the rejected quantity.</li><li>Buyer/Consignee can use the QR code to track the dispatched goods. The Consignee would be able to scan the QR code using Mobile QR Code Scanner application (refer Appendix for QR scanner apps) to see the details of the consignment. To track the shipment at buyers/consignee end, sellers may generate the dispatch slip with basic Consignee, Order and Shipment information and Sellers may attach dispatch slips along with shipments.</li><li>Buyer/HOD is now able to view the MSE Payment due,CRAC due and Payment Paid chart separately in their dashboard. Also payment authority will able to view the payment dashboard after login under acceptance and payments due section.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

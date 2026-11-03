@@ -2,21 +2,61 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Payment processing updates]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Payment Processing:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[भुगतान प्रक्रिया में बदलाव]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[GeM retries timed-out Railway and CGDA payment instructions. Eligible PFMS buyers can unblock funds with documented approval, and selected rejected Railway bills can be corrected and resubmitted.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[जेम समय सीमा पार कर चुके रेलवे और सीजीडीए भुगतान निर्देश फिर भेजता है। पात्र पीएफएमएस खरीदार लिखित स्वीकृति देकर आरक्षित राशि मुक्त कर सकते हैं। रेलवे के कुछ अस्वीकृत बिल सुधारे और दोबारा जमा किए जा सकते हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Service payments]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[सेवा भुगतान]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Repush Bill Handling]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[बिल दोबारा भेजना]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p>Service orders support cyclic payments through PFMS or non-challan GeM Pool Account top-ups.</p><p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p>सेवा आदेशों के लिए पीएफएमएस या बिना चालान वाले जेम पूल खाते में राशि जोड़कर चक्रीय भुगतान किए जा सकते हैं।</p><p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Case of Railways - This is to enable automated repush of payment instructions to Railways in case of timeout.</li><li>Case of CGDA - This is to enable automated repush of payment instructions to CGDA in case of timeout.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p>सेवा आदेशों के लिए पीएफएमएस या बिना चालान वाले जेम पूल खाते में राशि जोड़कर चक्रीय भुगतान किए जा सकते हैं।</p><div lang="en"><ul><li>Case of Railways - This is to enable automated repush of payment instructions to Railways in case of timeout.</li><li>Case of CGDA - This is to enable automated repush of payment instructions to CGDA in case of timeout.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0002" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0002" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Budget unblocking for PFMS users]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[पीएफएमएस उपयोगकर्ताओं की आरक्षित निधि मुक्त करना]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0002" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>PFMS buyers have been given an option to unblock the funds themselves for an order, as long as no payment for that order is in an initiated state. The buyers must upload an approval document to exercise this fund unblocking utility.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>PFMS buyers have been given an option to unblock the funds themselves for an order, as long as no payment for that order is in an initiated state. The buyers must upload an approval document to exercise this fund unblocking utility.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0003" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0003" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Allowing LD and Deductions for the RED buyers]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[रेड खरीदारों के लिए एलडी और कटौतियों की अनुमति]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0003" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>The validation for restricting the red buyers from imposing any deductions at the bill processing stage has now been lifted.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>The validation for restricting the red buyers from imposing any deductions at the bill processing stage has now been lifted.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0004" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0004" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Rejected handling in case of Railways]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[रेलवे के अस्वीकृत बिलों का निपटान]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0004" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>A new feature to resubmit the bill rejected due to following reasons has been introduced on GeM, buyers can rectify or ask seller to rectify and then resubmit the bill:</li><li>Income Tax to be recovered as per extent rule</li><li>IFSC code not available or Incorrect</li><li>LeAccount Number not available or Incorrect</li><li>Wrong LD details</li><li>For the following rejection reasons, the bill offline form would be provided to the buyer to update the payment status.</li><li>Coverage Purchase Order not linked</li><li>GeM invoice and R Note quantity not matching</li><li>Wrong Accounting unit</li><li>Item description in Tax invoice not as per Contract/covering PO</li><li>Mismatch of Tax Invoice Number with Documents</li><li>Duplicate invoice number in same Financial Year</li><li>Delivery Date needs extension</li><li>Wrong GSTIN of Supplier</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>A new feature to resubmit the bill rejected due to following reasons has been introduced on GeM, buyers can rectify or ask seller to rectify and then resubmit the bill:</li><li>Income Tax to be recovered as per extent rule</li><li>IFSC code not available or Incorrect</li><li>LeAccount Number not available or Incorrect</li><li>Wrong LD details</li><li>For the following rejection reasons, the bill offline form would be provided to the buyer to update the payment status.</li><li>Coverage Purchase Order not linked</li><li>GeM invoice and R Note quantity not matching</li><li>Wrong Accounting unit</li><li>Item description in Tax invoice not as per Contract/covering PO</li><li>Mismatch of Tax Invoice Number with Documents</li><li>Duplicate invoice number in same Financial Year</li><li>Delivery Date needs extension</li><li>Wrong GSTIN of Supplier</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0005" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0005" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Services Implementation:]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[सेवाओं के लिए कार्यान्वयन]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0005" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>Cyclic payments using PFMS top-up has been implemented to enable online payment via PFMS for service orders</li><li>GPA cyclic payments for Service Orders using GPA top-up has been implemented to enable online payment via Non-Challan GPA for service orders</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>Cyclic payments using PFMS top-up has been implemented to enable online payment via PFMS for service orders</li><li>GPA cyclic payments for Service Orders using GPA top-up has been implemented to enable online payment via Non-Challan GPA for service orders</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

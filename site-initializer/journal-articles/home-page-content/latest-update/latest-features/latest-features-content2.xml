@@ -2,21 +2,21 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Pending invoice dashboard]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[New Feature: Pending Invoice Amounts Visible on Dashboard]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[लंबित चालानों का डैशबोर्ड]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Service providers can review pending invoice amounts for service orders.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Dear Service Providers, We are pleased to inform you that the Pending Invoice Amounts Dashboard for service orders is now live.]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[सेवा प्रदाता सेवा आदेशों के लंबित चालानों की राशि देख सकते हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Contract tracking]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[अनुबंधों की निगरानी]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Key Highlights for Service Providers:]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[सेवा प्रदाताओं के लिए मुख्य बातें]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p>The dashboard identifies contracts that still need invoices and shows the amounts outstanding.</p><p><a href="https://gem.gov.in/latest#latest-features">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p>डैशबोर्ड उन अनुबंधों की पहचान करता है जिनके चालान जारी होने बाकी हैं और उनकी बकाया राशि दिखाता है।</p><p><a href="https://gem.gov.in/latest#latest-features">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<p>View pending invoice amounts directly on your dashboard.</p><p>Track invoices that are yet to be raised for each contract.</p><p>Ensure timely billing and avoid delays in payments.</p><p>Identify contracts based on invoicing status and remaining amounts.</p><p>This consolidated view will help Service providers track invoicing status on GeM more efficiently, ensure timely billing, and improve overall order management on GeM.</p>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<p>डैशबोर्ड उन अनुबंधों की पहचान करता है जिनके चालान जारी होने बाकी हैं और उनकी बकाया राशि दिखाता है।</p><div lang="en"><p>View pending invoice amounts directly on your dashboard.</p><p>Track invoices that are yet to be raised for each contract.</p><p>Ensure timely billing and avoid delays in payments.</p><p>Identify contracts based on invoicing status and remaining amounts.</p><p>This consolidated view will help Service providers track invoicing status on GeM more efficiently, ensure timely billing, and improve overall order management on GeM.</p></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

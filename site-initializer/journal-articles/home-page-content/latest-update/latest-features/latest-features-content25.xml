@@ -2,21 +2,31 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Buyer and seller registration]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[Registration Process:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[खरीदार और विक्रेता का पंजीकरण]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[NIC LDAP authenticates buyers, who can also invite suppliers. Seller onboarding separates organization details, personal checks, email verification and credentials. Self-help group missions can showcase their members’ products.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[एनआईसी एलडीएपी खरीदारों का प्रमाणीकरण करता है। खरीदार आपूर्तिकर्ताओं को आमंत्रित भी कर सकते हैं। विक्रेता पंजीकरण में संगठन विवरण, व्यक्तिगत सत्यापन, ईमेल सत्यापन और लॉगिन विवरण अलग चरण हैं। स्वयं सहायता समूहों के मिशन अपने सदस्यों के उत्पाद प्रदर्शित कर सकते हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Buyers]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[खरीदार]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>A new integration is done with NIC. Now the buyers will be authenticated by NIC LDAP at the time of registration and Login.</li><li>Buyers can now see an option under their My Account section to send an Invite to Sellers/Service Providers who are not yet registered on GeM.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>A new integration is done with NIC. Now the buyers will be authenticated by NIC LDAP at the time of registration and Login.</li><li>Buyers can now see an option under their My Account section to send an Invite to Sellers/Service Providers who are not yet registered on GeM.</li></ul></div>]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0002" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0002" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Sellers]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[विक्रेता]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0002" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>New interface for seller registration is divided into 4 sections - Organization details, Personal Verification, Email Verification and User Credentials. It's very user friendly and provides the better experience to the users while doing the seller registration and profile updating.</li><li>A new workflow was implemented for SHGs where the SHG missions were incorporated as brands in the system. All the SHGs from a mission are able to upload under their mission. The SHG mission logo is displayed on the product details page. A separate landing page on the market was created for showcasing SHG products.</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>New interface for seller registration is divided into 4 sections - Organization details, Personal Verification, Email Verification and User Credentials. It's very user friendly and provides the better experience to the users while doing the seller registration and profile updating.</li><li>A new workflow was implemented for SHGs where the SHG missions were incorporated as brands in the system. All the SHGs from a mission are able to upload under their mission. The SHG mission logo is displayed on the product details page. A separate landing page on the market was created for showcasing SHG products.</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>

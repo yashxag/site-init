@@ -2,21 +2,21 @@
 
 <root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
     <dynamic-element field-reference="heading" index-type="keyword" instance-id="heading1" name="Text04316015" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[Curated storefronts and public contract search]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[GeM Portal:]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[विशेष उत्पाद संग्रह और सार्वजनिक अनुबंध खोज]]></dynamic-content>
     </dynamic-element>
     <dynamic-element field-reference="description" index-type="keyword" instance-id="descrip1" name="Text50680698" type="text">
-        <dynamic-content language-id="en_US"><![CDATA[GeM introduced a Tribes India collection and an onboarding portal for weavers and artisans. Public contract search supports filters for purchase type and buyer entity.]]></dynamic-content>
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
         <dynamic-content language-id="hi_IN"><![CDATA[जेम ने ट्राइब्स इंडिया का उत्पाद संग्रह और बुनकरों व कारीगरों के पंजीकरण के लिए पोर्टल शुरू किया। सार्वजनिक अनुबंध खोज में खरीद प्रकार और खरीदार संस्था के फ़िल्टर हैं।]]></dynamic-content>
     </dynamic-element>
-    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="subgroup" name="Fieldset33500144" type="fieldset">
-        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subhead1" name="Text51751789" type="text">
-            <dynamic-content language-id="en_US"><![CDATA[Source]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[स्रोत]]></dynamic-content>
+    <dynamic-element field-reference="subDescriptionGroup" index-type="" instance-id="grp_0001" name="Fieldset33500144" type="fieldset">
+        <dynamic-element field-reference="subHeading" index-type="keyword" instance-id="subh0001" name="Text51751789" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
         </dynamic-element>
-        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subdesc1" name="RichText13464850" type="rich_text">
-            <dynamic-content language-id="en_US"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">GeM Latest Features</a></p>]]></dynamic-content>
-            <dynamic-content language-id="hi_IN"><![CDATA[<p><a href="https://gem.gov.in/latest#previous-month">जेम की नवीनतम सुविधाएँ</a></p>]]></dynamic-content>
+        <dynamic-element field-reference="subDescription" index-type="text" instance-id="subd0001" name="RichText13464850" type="rich_text">
+            <dynamic-content language-id="en_US"><![CDATA[<ul><li>GeM along with TRIFED (Tribal Cooperative Marketing Development Federation of India) launched curated baskets of natural, handloom and handcrafted products from Tribes India via a special webpage.</li><li>As part of its &quot;Inclusiveness&quot; value, GeM launched a special portal for onboarding Weavers and Artisans across India in collaboration with the Department of Handloom and Handicrafts, Ministry of Textiles.</li><li>Furthering the Transparency agenda of GeM - now all the users can search for contracts publicly on GeM from &quot; View Contracts&quot; link on GeM home page. Click <a href="https://gem.gov.in/view_contracts">here</a></li><li>Contracts could be searched by purchase type or by nature of buyer entities</li></ul>]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[<div lang="en"><ul><li>GeM along with TRIFED (Tribal Cooperative Marketing Development Federation of India) launched curated baskets of natural, handloom and handcrafted products from Tribes India via a special webpage.</li><li>As part of its &quot;Inclusiveness&quot; value, GeM launched a special portal for onboarding Weavers and Artisans across India in collaboration with the Department of Handloom and Handicrafts, Ministry of Textiles.</li><li>Furthering the Transparency agenda of GeM - now all the users can search for contracts publicly on GeM from &quot; View Contracts&quot; link on GeM home page. Click <a href="https://gem.gov.in/view_contracts">here</a></li><li>Contracts could be searched by purchase type or by nature of buyer entities</li></ul></div>]]></dynamic-content>
         </dynamic-element>
     </dynamic-element>
 </root>
