@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="title" index-type="keyword" instance-id="YKY0HBBh" name="Text64197180" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Disclosure under Section 4(1)(b) of the Right to Information Act 2005 Part-4
+        ]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[सूचना का अधिकार अधिनियम 2005 भाग-4 की धारा 4(1)(ख) के तहत प्रकटीकरण
+        ]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="uploadDocument" index-type="keyword" instance-id="mqE6uT21" name="DocumentLibrary06254830" type="document_library">
+        <dynamic-content language-id="en_US"><![CDATA[[$DOCUMENT_JSON:/site-initializer/documents/group/rti/rti-documents/part-4-of-disclosure-under-section-41b-of-the-righ_1782189628.pdf$]
+        ]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[[$DOCUMENT_JSON:/site-initializer/documents/group/rti/rti-documents/part-4-of-disclosure-under-section-41b-of-the-righ_1782189628.pdf$]
+        ]]></dynamic-content>
+    </dynamic-element>
+</root>

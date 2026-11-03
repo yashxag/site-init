@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="title" index-type="keyword" instance-id="YKY0HBBh" name="Text64197180" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Quarter-2 2024-25
+        ]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[क्वार्टर-2 2024-25
+        ]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="uploadDocument" index-type="keyword" instance-id="mqE6uT21" name="DocumentLibrary06254830" type="document_library">
+        <dynamic-content language-id="en_US"><![CDATA[[$DOCUMENT_JSON:/site-initializer/documents/group/rti/receipt-and-disposals-rti/quarterly-report-2-fy-2024-25_1747127344.pdf$]
+        ]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[[$DOCUMENT_JSON:/site-initializer/documents/group/rti/receipt-and-disposals-rti/quarterly-report-2-fy-2024-25_1747127344.pdf$]
+        ]]></dynamic-content>
+    </dynamic-element>
+</root>

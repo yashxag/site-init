@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="name" index-type="keyword" instance-id="SUh2yLAa" name="Text51913261" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Shri Davinder Chodha]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[श्री दविंदर चोधा]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="role" index-type="keyword" instance-id="mJHHBuM8" name="Text56309942" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Central Public Information Officer (CPIO)]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[केन्द्रीय लोक सूचना अधिकारी (सी.पी.आई.ओ.)]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="address" index-type="keyword" instance-id="H9mlhE81" name="Text06082282" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[2nd floor, Jeevan Tara Building, Sansad Marg, New Delhi – 110001]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[दूसरी मंजिल, जीवन तारा बिल्डिंग, संसद मार्ग, नई दिल्ली – 110001]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="telNo" index-type="keyword" instance-id="m1Mws0CR" name="Text90276092" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[011-45738100]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[011-45738100]]></dynamic-content>
+    </dynamic-element>
+</root>

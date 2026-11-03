@@ -1,0 +1,671 @@
+{
+    "availableLanguageIds": [
+        "en_US"
+    ],
+    "contentType": "journal",
+    "dataDefinitionFields": [
+        {
+            "customProperties": {
+                "normalizedStructure": false,
+                "labelAtStructureLevel": true,
+                "ddmStructureLayoutId": "",
+                "ddmStructureKey": "",
+                "ddmStructureId": "",
+                "upgradedStructure": false,
+                "fieldReference": "navigationGroup",
+                "rows": [
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Text96979067"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Text28880121"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Text22005424"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Text69180574"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Image15410602"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Fieldset60439245"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "collapsible": false
+            },
+            "defaultValue": {
+                "en_US": ""
+            },
+            "fieldType": "fieldset",
+            "indexable": false,
+            "label": {
+                "en_US": "Navigation Group"
+            },
+            "localizable": false,
+            "name": "Fieldset36988970",
+            "nestedDataDefinitionFields": [
+                {
+                    "customProperties": {
+                        "labelAtStructureLevel": true,
+                        "confirmationErrorMessage": {
+                            "en_US": ""
+                        },
+                        "hideField": false,
+                        "dataType": "string",
+                        "tooltip": {
+                            "en_US": ""
+                        },
+                        "requireConfirmation": false,
+                        "displayStyle": "singleline",
+                        "fieldNamespace": "",
+                        "visibilityExpression": "",
+                        "options": {},
+                        "nativeField": false,
+                        "confirmationLabel": {
+                            "en_US": ""
+                        },
+                        "fieldReference": "key",
+                        "placeholder": {
+                            "en_US": ""
+                        },
+                        "htmlAutocompleteAttribute": "",
+                        "direction": [
+                            "vertical"
+                        ]
+                    },
+                    "defaultValue": {
+                        "en_US": ""
+                    },
+                    "fieldType": "text",
+                    "indexType": "keyword",
+                    "indexable": true,
+                    "label": {
+                        "en_US": "Key"
+                    },
+                    "localizable": true,
+                    "name": "Text96979067",
+                    "nestedDataDefinitionFields": [],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "tip": {
+                        "en_US": ""
+                    }
+                },
+                {
+                    "customProperties": {
+                        "labelAtStructureLevel": true,
+                        "confirmationErrorMessage": {
+                            "en_US": ""
+                        },
+                        "hideField": false,
+                        "dataType": "string",
+                        "tooltip": {
+                            "en_US": ""
+                        },
+                        "requireConfirmation": false,
+                        "displayStyle": "singleline",
+                        "fieldNamespace": "",
+                        "visibilityExpression": "",
+                        "options": {},
+                        "nativeField": false,
+                        "confirmationLabel": {
+                            "en_US": ""
+                        },
+                        "fieldReference": "navigationTitle",
+                        "placeholder": {
+                            "en_US": ""
+                        },
+                        "htmlAutocompleteAttribute": "",
+                        "direction": [
+                            "vertical"
+                        ]
+                    },
+                    "defaultValue": {
+                        "en_US": ""
+                    },
+                    "fieldType": "text",
+                    "indexType": "keyword",
+                    "indexable": true,
+                    "label": {
+                        "en_US": "Navigation Title"
+                    },
+                    "localizable": true,
+                    "name": "Text28880121",
+                    "nestedDataDefinitionFields": [],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "tip": {
+                        "en_US": ""
+                    }
+                },
+                {
+                    "customProperties": {
+                        "labelAtStructureLevel": true,
+                        "confirmationErrorMessage": {
+                            "en_US": ""
+                        },
+                        "hideField": false,
+                        "dataType": "string",
+                        "tooltip": {
+                            "en_US": ""
+                        },
+                        "requireConfirmation": false,
+                        "displayStyle": "singleline",
+                        "fieldNamespace": "",
+                        "visibilityExpression": "",
+                        "options": {},
+                        "nativeField": false,
+                        "confirmationLabel": {
+                            "en_US": ""
+                        },
+                        "fieldReference": "navigationSubTitle",
+                        "placeholder": {
+                            "en_US": ""
+                        },
+                        "htmlAutocompleteAttribute": "",
+                        "direction": [
+                            "vertical"
+                        ]
+                    },
+                    "defaultValue": {
+                        "en_US": ""
+                    },
+                    "fieldType": "text",
+                    "indexType": "keyword",
+                    "indexable": true,
+                    "label": {
+                        "en_US": "Navigation Sub Title"
+                    },
+                    "localizable": true,
+                    "name": "Text22005424",
+                    "nestedDataDefinitionFields": [],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "tip": {
+                        "en_US": ""
+                    }
+                },
+                {
+                    "customProperties": {
+                        "labelAtStructureLevel": true,
+                        "confirmationErrorMessage": {
+                            "en_US": ""
+                        },
+                        "hideField": false,
+                        "dataType": "string",
+                        "tooltip": {
+                            "en_US": ""
+                        },
+                        "requireConfirmation": false,
+                        "displayStyle": "singleline",
+                        "fieldNamespace": "",
+                        "visibilityExpression": "",
+                        "options": {},
+                        "nativeField": false,
+                        "confirmationLabel": {
+                            "en_US": ""
+                        },
+                        "fieldReference": "IconClassPath",
+                        "placeholder": {
+                            "en_US": ""
+                        },
+                        "htmlAutocompleteAttribute": "",
+                        "direction": [
+                            "vertical"
+                        ]
+                    },
+                    "defaultValue": {
+                        "en_US": ""
+                    },
+                    "fieldType": "text",
+                    "indexType": "keyword",
+                    "indexable": true,
+                    "label": {
+                        "en_US": "Icon Class Path"
+                    },
+                    "localizable": true,
+                    "name": "Text69180574",
+                    "nestedDataDefinitionFields": [],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "tip": {
+                        "en_US": ""
+                    }
+                },
+                {
+                    "customProperties": {
+                        "fieldNamespace": "",
+                        "visibilityExpression": "",
+                        "dataType": "image",
+                        "requiredDescription": true,
+                        "fieldReference": "IconUpload"
+                    },
+                    "defaultValue": {
+                        "en_US": ""
+                    },
+                    "fieldType": "image",
+                    "indexType": "text",
+                    "indexable": true,
+                    "label": {
+                        "en_US": "Icon Upload"
+                    },
+                    "localizable": true,
+                    "name": "Image15410602",
+                    "nestedDataDefinitionFields": [],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "tip": {
+                        "en_US": ""
+                    }
+                },
+                {
+                    "customProperties": {
+                        "normalizedStructure": false,
+                        "labelAtStructureLevel": true,
+                        "ddmStructureLayoutId": "",
+                        "ddmStructureKey": "",
+                        "ddmStructureId": "",
+                        "upgradedStructure": false,
+                        "fieldReference": "subNavigationGroup",
+                        "rows": [
+                            {
+                                "columns": [
+                                    {
+                                        "size": 12,
+                                        "fields": [
+                                            "Text65374256"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "columns": [
+                                    {
+                                        "size": 12,
+                                        "fields": [
+                                            "Text49632658"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "columns": [
+                                    {
+                                        "size": 12,
+                                        "fields": [
+                                            "Text67500658"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "columns": [
+                                    {
+                                        "size": 12,
+                                        "fields": [
+                                            "Text08344407"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "columns": [
+                                    {
+                                        "size": 12,
+                                        "fields": [
+                                            "Image10312884"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "collapsible": false
+                    },
+                    "defaultValue": {
+                        "en_US": ""
+                    },
+                    "fieldType": "fieldset",
+                    "indexable": false,
+                    "label": {
+                        "en_US": "Sub Navigation Group"
+                    },
+                    "localizable": false,
+                    "name": "Fieldset60439245",
+                    "nestedDataDefinitionFields": [
+                        {
+                            "customProperties": {
+                                "labelAtStructureLevel": true,
+                                "confirmationErrorMessage": {
+                                    "en_US": ""
+                                },
+                                "hideField": false,
+                                "dataType": "string",
+                                "tooltip": {
+                                    "en_US": ""
+                                },
+                                "requireConfirmation": false,
+                                "displayStyle": "singleline",
+                                "fieldNamespace": "",
+                                "visibilityExpression": "",
+                                "options": {},
+                                "nativeField": false,
+                                "confirmationLabel": {
+                                    "en_US": ""
+                                },
+                                "fieldReference": "subKey",
+                                "placeholder": {
+                                    "en_US": ""
+                                },
+                                "htmlAutocompleteAttribute": "",
+                                "direction": [
+                                    "vertical"
+                                ]
+                            },
+                            "defaultValue": {
+                                "en_US": ""
+                            },
+                            "fieldType": "text",
+                            "indexType": "keyword",
+                            "indexable": true,
+                            "label": {
+                                "en_US": "Key"
+                            },
+                            "localizable": true,
+                            "name": "Text65374256",
+                            "nestedDataDefinitionFields": [],
+                            "readOnly": false,
+                            "repeatable": false,
+                            "required": false,
+                            "showLabel": true,
+                            "tip": {
+                                "en_US": ""
+                            }
+                        },
+                        {
+                            "customProperties": {
+                                "labelAtStructureLevel": true,
+                                "confirmationErrorMessage": {
+                                    "en_US": ""
+                                },
+                                "hideField": false,
+                                "dataType": "string",
+                                "tooltip": {
+                                    "en_US": ""
+                                },
+                                "requireConfirmation": false,
+                                "displayStyle": "singleline",
+                                "fieldNamespace": "",
+                                "visibilityExpression": "",
+                                "options": {},
+                                "nativeField": false,
+                                "confirmationLabel": {
+                                    "en_US": ""
+                                },
+                                "fieldReference": "subNaviagtionTitle",
+                                "placeholder": {
+                                    "en_US": ""
+                                },
+                                "htmlAutocompleteAttribute": "",
+                                "direction": [
+                                    "vertical"
+                                ]
+                            },
+                            "defaultValue": {
+                                "en_US": ""
+                            },
+                            "fieldType": "text",
+                            "indexType": "keyword",
+                            "indexable": true,
+                            "label": {
+                                "en_US": "Sub Navigation Title"
+                            },
+                            "localizable": true,
+                            "name": "Text49632658",
+                            "nestedDataDefinitionFields": [],
+                            "readOnly": false,
+                            "repeatable": false,
+                            "required": false,
+                            "showLabel": true,
+                            "tip": {
+                                "en_US": ""
+                            }
+                        },
+                        {
+                            "customProperties": {
+                                "labelAtStructureLevel": true,
+                                "confirmationErrorMessage": {
+                                    "en_US": ""
+                                },
+                                "hideField": false,
+                                "dataType": "string",
+                                "tooltip": {
+                                    "en_US": ""
+                                },
+                                "requireConfirmation": false,
+                                "displayStyle": "singleline",
+                                "fieldNamespace": "",
+                                "visibilityExpression": "",
+                                "options": {},
+                                "nativeField": false,
+                                "confirmationLabel": {
+                                    "en_US": ""
+                                },
+                                "fieldReference": "subNaviagtionSubTitle",
+                                "placeholder": {
+                                    "en_US": ""
+                                },
+                                "htmlAutocompleteAttribute": "",
+                                "direction": [
+                                    "vertical"
+                                ]
+                            },
+                            "defaultValue": {
+                                "en_US": ""
+                            },
+                            "fieldType": "text",
+                            "indexType": "keyword",
+                            "indexable": true,
+                            "label": {
+                                "en_US": "Sub Navigation Sub Title"
+                            },
+                            "localizable": true,
+                            "name": "Text67500658",
+                            "nestedDataDefinitionFields": [],
+                            "readOnly": false,
+                            "repeatable": false,
+                            "required": false,
+                            "showLabel": true,
+                            "tip": {
+                                "en_US": ""
+                            }
+                        },
+                        {
+                            "customProperties": {
+                                "labelAtStructureLevel": true,
+                                "confirmationErrorMessage": {
+                                    "en_US": ""
+                                },
+                                "hideField": false,
+                                "dataType": "string",
+                                "tooltip": {
+                                    "en_US": ""
+                                },
+                                "requireConfirmation": false,
+                                "displayStyle": "singleline",
+                                "fieldNamespace": "",
+                                "visibilityExpression": "",
+                                "options": {},
+                                "nativeField": false,
+                                "confirmationLabel": {
+                                    "en_US": ""
+                                },
+                                "fieldReference": "subIconClassPath",
+                                "placeholder": {
+                                    "en_US": ""
+                                },
+                                "htmlAutocompleteAttribute": "",
+                                "direction": [
+                                    "vertical"
+                                ]
+                            },
+                            "defaultValue": {
+                                "en_US": ""
+                            },
+                            "fieldType": "text",
+                            "indexType": "keyword",
+                            "indexable": true,
+                            "label": {
+                                "en_US": "Sub Icon Class Path"
+                            },
+                            "localizable": true,
+                            "name": "Text08344407",
+                            "nestedDataDefinitionFields": [],
+                            "readOnly": false,
+                            "repeatable": false,
+                            "required": false,
+                            "showLabel": true,
+                            "tip": {
+                                "en_US": ""
+                            }
+                        },
+                        {
+                            "customProperties": {
+                                "fieldNamespace": "",
+                                "visibilityExpression": "",
+                                "dataType": "image",
+                                "requiredDescription": true,
+                                "fieldReference": "subIconUpload"
+                            },
+                            "defaultValue": {
+                                "en_US": ""
+                            },
+                            "fieldType": "image",
+                            "indexType": "text",
+                            "indexable": true,
+                            "label": {
+                                "en_US": "Sub Icon Upload"
+                            },
+                            "localizable": true,
+                            "name": "Image10312884",
+                            "nestedDataDefinitionFields": [],
+                            "readOnly": false,
+                            "repeatable": false,
+                            "required": false,
+                            "showLabel": true,
+                            "tip": {
+                                "en_US": ""
+                            }
+                        }
+                    ],
+                    "readOnly": false,
+                    "repeatable": true,
+                    "required": false,
+                    "showLabel": true,
+                    "tip": {
+                        "en_US": ""
+                    }
+                }
+            ],
+            "readOnly": false,
+            "repeatable": false,
+            "required": false,
+            "showLabel": true,
+            "tip": {
+                "en_US": ""
+            }
+        }
+    ],
+    "dataDefinitionKey": "CONTENT-NAVIGATION",
+    "defaultDataLayout": {
+        "dataLayoutFields": {},
+        "dataLayoutPages": [
+            {
+                "dataLayoutRows": [
+                    {
+                        "dataLayoutColumns": [
+                            {
+                                "columnSize": 12,
+                                "fieldNames": [
+                                    "Fieldset36988970"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "description": {
+                    "en_US": ""
+                },
+                "title": {
+                    "en_US": ""
+                }
+            }
+        ],
+        "dataRules": [],
+        "description": {},
+        "name": {
+            "en_US": "Content Navigation"
+        },
+        "paginationMode": "single-page"
+    },
+    "defaultLanguageId": "en_US",
+    "description": {},
+    "externalReferenceCode": "content-navigation-structure",
+    "name": {
+        "en_US": "Content Navigation"
+    },
+    "storageType": "default"
+}

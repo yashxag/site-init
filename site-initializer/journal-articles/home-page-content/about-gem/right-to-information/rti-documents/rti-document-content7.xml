@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="title" index-type="keyword" instance-id="YKY0HBBh" name="Text64197180" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[GeM Revenue Policy 1.6
+        ]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[जेम राजस्व नीति 1.6
+        ]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="uploadDocument" index-type="keyword" instance-id="mqE6uT21" name="DocumentLibrary06254830" type="document_library">
+        <dynamic-content language-id="en_US"><![CDATA[[$DOCUMENT_JSON:/site-initializer/documents/group/rti/rti-documents/gem-revenue-policy-1_1781859388.pdf$]
+        ]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[[$DOCUMENT_JSON:/site-initializer/documents/group/rti/rti-documents/gem-revenue-policy-1_1781859388.pdf$]
+        ]]></dynamic-content>
+    </dynamic-element>
+</root>

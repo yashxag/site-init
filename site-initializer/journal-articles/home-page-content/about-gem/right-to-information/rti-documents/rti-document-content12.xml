@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="title" index-type="keyword" instance-id="YKY0HBBh" name="Text64197180" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Consultancy committee of key stakeholders for advice on suo-moto disclosure under Section 4 (1) (b) of RTI Act 2005
+        ]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[आरटीआई अधिनियम 2005 की धारा 4 (1) (बी) के तहत स्वप्रेरित प्रकटीकरण पर सलाह के लिए प्रमुख हितधारकों की परामर्श समिति।
+        ]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="uploadDocument" index-type="keyword" instance-id="mqE6uT21" name="DocumentLibrary06254830" type="document_library">
+        <dynamic-content language-id="en_US"><![CDATA[[$DOCUMENT_JSON:/site-initializer/documents/group/rti/rti-documents/consultancy-committee-of-key-stakeholders-for-advi_1781859266.pdf$]
+        ]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[[$DOCUMENT_JSON:/site-initializer/documents/group/rti/rti-documents/consultancy-committee-of-key-stakeholders-for-advi_1781859266.pdf$]
+        ]]></dynamic-content>
+    </dynamic-element>
+</root>

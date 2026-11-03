@@ -1,0 +1,155 @@
+{
+	"object-entries": [
+		{
+			"externalReferenceCode": "hd-rti-navigation",
+			"featureEnabled": true,
+			"paginationParam": "",
+			"title_i18n": {
+				"en_US": "RTI Navigation"
+			},
+			"additionalParams": "",
+			"searchParam": "",
+			"requestPayload": "",
+			"serviceURL": "/o/headless-delivery/v1.0/structured-content-folders/{folder_id}/structured-contents?fields=contentFields.name,contentFields.nestedContentFields.name,contentFields.nestedContentFields.contentFieldValue&restrictFields=actions&sort=priority:asc,dateModified:desc",
+			"characterLimit": 0,
+			"filterFields": "",
+			"screenName": "/right-to-information",
+			"categoryFiltersURL": "",
+			"httpMethod": {
+				"key": "GET",
+				"name": "GET"
+			},
+			"title": "RTI Navigation",
+			"filterParam": "",
+			"folderId": 0,
+			"assetType": {
+				"key": "webContent",
+				"name": "Web Content"
+			},
+			"application": "web",
+			"sortByFields": "",
+			"key": "rti-navigation"
+		},
+		{
+			"externalReferenceCode": "hd-receipt-and-disposals-rti",
+			"featureEnabled": true,
+			"paginationParam": "",
+			"title_i18n": {
+				"en_US": "Receipt and Disposals RTI"
+			},
+			"additionalParams": "",
+			"searchParam": "&search=${search_param}",
+			"requestPayload": "{\n  \"attributes\": {\n    \"search.empty.search\": true,\n    \"search.experiences.blueprint.external.reference.code\": \"GEM-TAXONOMY-FILTER-SEARCH\",\n    \"search.experiences.folderId\": {folder_id}\n     \"search.experiences.selectedCategoryErcs\": \"\"\n  }\n}",
+			"serviceURL": "/o/search/v1.0/search?sort=dateModified:desc&nestedFields=embedded&fields=title,dateModified,dateCreated,embedded.contentFields.contentFieldValue,embedded.contentFields.name",
+			"characterLimit": 0,
+			"filterFields": "",
+			"screenName": "/right-to-information",
+			"categoryFiltersURL": "",
+			"httpMethod": {
+				"key": "POST",
+				"name": "POST"
+			},
+			"title": "Receipt and Disposals RTI",
+			"filterParam": "&filter=dateModified+ge+${start_date}+and+dateModified+le+${end_date}",
+			"folderId": 0,
+			"assetType": {
+				"key": "webContent",
+				"name": "Web Content"
+			},
+			"application": "web",
+			"sortByFields": "{\n\"Title\":\"title\",\n\"Date Modified\" :\"dateModified\"\n}",
+			"key": "receipt-and-disposals-rti"
+		},
+		{
+			"externalReferenceCode": "hd-report-rti",
+			"featureEnabled": true,
+			"paginationParam": "",
+			"title_i18n": {
+				"en_US": "Report RTI"
+			},
+			"additionalParams": "",
+			"searchParam": "&search=${search_param}",
+			"requestPayload": "{\n  \"attributes\": {\n    \"search.empty.search\": true,\n    \"search.experiences.blueprint.external.reference.code\": \"GEM-TAXONOMY-FILTER-SEARCH\",\n    \"search.experiences.folderId\": {folder_id}\n  }\n}",
+			"serviceURL": "/o/search/v1.0/search?sort=dateModified:desc&nestedFields=embedded&fields=title,dateModified,dateCreated,embedded.contentFields.contentFieldValue,embedded.contentFields.name",
+			"characterLimit": 0,
+			"filterFields": "",
+			"screenName": "/right-to-information",
+			"categoryFiltersURL": "",
+			"httpMethod": {
+				"key": "POST",
+				"name": "POST"
+			},
+			"title": "Report RTI",
+			"filterParam": "&filter=dateModified+ge+${start_date}+and+dateModified+le+${end_date}",
+			"folderId": 0,
+			"assetType": {
+				"key": "webContent",
+				"name": "Web Content"
+			},
+			"application": "web",
+			"sortByFields": "{\n\"Title\":\"title\",\n\"Date Modified\" :\"dateModified\"\n}",
+			"key": "report-rti"
+		},
+		{
+			"externalReferenceCode": "hd-rti-documents",
+			"featureEnabled": true,
+			"paginationParam": "&page=1&pageSize=10",
+			"title_i18n": {
+				"en_US": "RTI Documents"
+			},
+			"additionalParams": "",
+			"searchParam": "&search=${search_param}",
+			"requestPayload": "{\n  \"attributes\": {\n    \"search.empty.search\": true,\n    \"search.experiences.blueprint.external.reference.code\": \"GEM-TAXONOMY-FILTER-SEARCH\",\n    \"search.experiences.folderId\": {folder_id}\n  }\n}",
+			"serviceURL": "/o/search/v1.0/search?sort=dateModified:desc&nestedFields=embedded&fields=title,dateModified,dateCreated,embedded.contentFields.contentFieldValue,embedded.contentFields.name",
+			"characterLimit": 0,
+			"filterFields": "",
+			"screenName": "/right-to-information",
+			"categoryFiltersURL": "",
+			"httpMethod": {
+				"key": "POST",
+				"name": "POST"
+			},
+			"title": "RTI Documents",
+			"filterParam": "&filter=dateModified ge ${start_date} and dateModified le ${end_date}",
+			"folderId": 0,
+			"assetType": {
+				"key": "webContent",
+				"name": "Web Content"
+			},
+			"application": "web",
+			"sortByFields": "{\n   \"Title\":\"title\",\n\"Date Modified\" :\"dateModified\"\n}",
+			"key": "rti-documents"
+		},
+		{
+			"externalReferenceCode": "hd-rti-header",
+			"featureEnabled": true,
+			"paginationParam": "",
+			"title_i18n": {
+				"en_US": "RTI Header"
+			},
+			"additionalParams": "",
+			"searchParam": "",
+			"requestPayload": "",
+			"serviceURL": "/o/headless-delivery/v1.0/structured-content-folders/{folder_id}}/structured-contents?fields=contentFields.name,contentFields.contentFieldValue.data,contentFields.nestedContentFields.contentFieldValue.data,contentFields.nestedContentFields.name&restrictFields=actions",
+			"characterLimit": 0,
+			"filterFields": "",
+			"screenName": "/right-to-information",
+			"categoryFiltersURL": "",
+			"httpMethod": {
+				"key": "GET",
+				"name": "GET"
+			},
+			"title": "RTI Header",
+			"filterParam": "",
+			"folderId": 0,
+			"assetType": {
+				"key": "webContent",
+				"name": "Web Content"
+			},
+			"application": "web",
+			"sortByFields": "",
+			"key": "rti-header"
+		}
+	],
+	"objectDefinitionName": "HeadlessDeliveryConfigurations"
+}

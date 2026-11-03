@@ -1,0 +1,289 @@
+{
+  "availableLanguageIds": [
+    "en_US"
+  ],
+  "contentType": "journal",
+  "dataDefinitionFields": [
+    {
+      "customProperties": {
+        "labelAtStructureLevel": true,
+        "confirmationErrorMessage": {
+          "en_US": ""
+        },
+        "hideField": false,
+        "dataType": "string",
+        "tooltip": {
+          "en_US": ""
+        },
+        "requireConfirmation": false,
+        "displayStyle": "singleline",
+        "fieldNamespace": "",
+        "requiredErrorMessage": {
+          "en_US": ""
+        },
+        "visibilityExpression": "",
+        "objectFieldName": "",
+        "options": {},
+        "nativeField": false,
+        "confirmationLabel": {
+          "en_US": ""
+        },
+        "fieldReference": "name",
+        "placeholder": {
+          "en_US": ""
+        },
+        "htmlAutocompleteAttribute": "",
+        "direction": [
+          "vertical"
+        ]
+      },
+      "defaultValue": {
+        "en_US": ""
+      },
+      "fieldType": "text",
+      "indexType": "keyword",
+      "indexable": true,
+      "label": {
+        "en_US": "Name"
+      },
+      "localizable": true,
+      "name": "Text51913261",
+      "nestedDataDefinitionFields": [],
+      "readOnly": false,
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "tip": {
+        "en_US": ""
+      }
+    },
+    {
+      "customProperties": {
+        "labelAtStructureLevel": true,
+        "confirmationErrorMessage": {
+          "en_US": ""
+        },
+        "hideField": false,
+        "dataType": "string",
+        "tooltip": {
+          "en_US": ""
+        },
+        "requireConfirmation": false,
+        "displayStyle": "singleline",
+        "fieldNamespace": "",
+        "requiredErrorMessage": {
+          "en_US": ""
+        },
+        "visibilityExpression": "",
+        "objectFieldName": "",
+        "options": {},
+        "nativeField": false,
+        "confirmationLabel": {
+          "en_US": ""
+        },
+        "fieldReference": "role",
+        "placeholder": {
+          "en_US": ""
+        },
+        "htmlAutocompleteAttribute": "",
+        "direction": [
+          "vertical"
+        ]
+      },
+      "defaultValue": {
+        "en_US": ""
+      },
+      "fieldType": "text",
+      "indexType": "keyword",
+      "indexable": true,
+      "label": {
+        "en_US": "Role"
+      },
+      "localizable": true,
+      "name": "Text56309942",
+      "nestedDataDefinitionFields": [],
+      "readOnly": false,
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "tip": {
+        "en_US": ""
+      }
+    },
+    {
+      "customProperties": {
+        "labelAtStructureLevel": true,
+        "confirmationErrorMessage": {
+          "en_US": ""
+        },
+        "hideField": false,
+        "dataType": "string",
+        "tooltip": {
+          "en_US": ""
+        },
+        "requireConfirmation": false,
+        "displayStyle": "multiline",
+        "fieldNamespace": "",
+        "requiredErrorMessage": {
+          "en_US": ""
+        },
+        "visibilityExpression": "",
+        "objectFieldName": "",
+        "options": {},
+        "nativeField": false,
+        "confirmationLabel": {
+          "en_US": ""
+        },
+        "fieldReference": "address",
+        "placeholder": {
+          "en_US": ""
+        },
+        "htmlAutocompleteAttribute": "",
+        "direction": [
+          "vertical"
+        ]
+      },
+      "defaultValue": {
+        "en_US": ""
+      },
+      "fieldType": "text",
+      "indexType": "keyword",
+      "indexable": true,
+      "label": {
+        "en_US": "Address"
+      },
+      "localizable": true,
+      "name": "Text06082282",
+      "nestedDataDefinitionFields": [],
+      "readOnly": false,
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "tip": {
+        "en_US": ""
+      }
+    },
+    {
+      "customProperties": {
+        "labelAtStructureLevel": true,
+        "confirmationErrorMessage": {
+          "en_US": ""
+        },
+        "hideField": false,
+        "dataType": "string",
+        "tooltip": {
+          "en_US": ""
+        },
+        "requireConfirmation": false,
+        "displayStyle": "singleline",
+        "fieldNamespace": "",
+        "requiredErrorMessage": {
+          "en_US": ""
+        },
+        "visibilityExpression": "",
+        "objectFieldName": "",
+        "options": {},
+        "nativeField": false,
+        "confirmationLabel": {
+          "en_US": ""
+        },
+        "fieldReference": "telNo",
+        "placeholder": {
+          "en_US": ""
+        },
+        "htmlAutocompleteAttribute": "",
+        "direction": [
+          "vertical"
+        ]
+      },
+      "defaultValue": {
+        "en_US": ""
+      },
+      "fieldType": "text",
+      "indexType": "keyword",
+      "indexable": true,
+      "label": {
+        "en_US": "Tel No."
+      },
+      "localizable": true,
+      "name": "Text90276092",
+      "nestedDataDefinitionFields": [],
+      "readOnly": false,
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "tip": {
+        "en_US": ""
+      }
+    }
+  ],
+  "dataDefinitionKey": "RTI-HEADER-STRUCTURE",
+  "defaultDataLayout": {
+    "dataLayoutFields": {},
+    "dataLayoutPages": [
+      {
+        "dataLayoutRows": [
+          {
+            "dataLayoutColumns": [
+              {
+                "columnSize": 12,
+                "fieldNames": [
+                  "Text51913261"
+                ]
+              }
+            ]
+          },
+          {
+            "dataLayoutColumns": [
+              {
+                "columnSize": 12,
+                "fieldNames": [
+                  "Text56309942"
+                ]
+              }
+            ]
+          },
+          {
+            "dataLayoutColumns": [
+              {
+                "columnSize": 12,
+                "fieldNames": [
+                  "Text06082282"
+                ]
+              }
+            ]
+          },
+          {
+            "dataLayoutColumns": [
+              {
+                "columnSize": 12,
+                "fieldNames": [
+                  "Text90276092"
+                ]
+              }
+            ]
+          }
+        ],
+        "description": {
+          "en_US": ""
+        },
+        "title": {
+          "en_US": ""
+        }
+      }
+    ],
+    "dataRules": [],
+    "description": {},
+    "name": {
+      "en_US": "RTI Header"
+    },
+    "paginationMode": "single-page"
+  },
+  "defaultLanguageId": "en_US",
+  "description": {},
+  "externalReferenceCode": "rti-header-structure",
+  "name": {
+    "en_US": "RTI Header"
+  },
+  "storageType": "default"
+}

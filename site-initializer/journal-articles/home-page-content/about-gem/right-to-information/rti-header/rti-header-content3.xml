@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="name" index-type="keyword" instance-id="Mzgxh7v6" name="Text51913261" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Shri Anuj Kumar]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[श्री अनुज कुमार]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="role" index-type="keyword" instance-id="rL8yBhoZ" name="Text56309942" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[Nodal Officer RTI]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[नोडल अधिकारी आरटीआई]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="address" index-type="keyword" instance-id="L5GHywPi" name="Text06082282" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[3rd floor, Jeevan Bharti Building, Connaught Place, New Delhi-110001]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[तीसरी मंजिल, जीवन भारती बिल्डिंग, कनॉट प्लेस, नई दिल्ली-110001]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element field-reference="telNo" index-type="keyword" instance-id="i3pseijT" name="Text90276092" type="text">
+        <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+        <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
+    </dynamic-element>
+</root>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US, hi_IN" default-locale="en_US" version="1.0">
+    <dynamic-element field-reference="navigationGroup" index-type="" instance-id="yLdMnX3J" name="Fieldset36988970" type="fieldset">
+        <dynamic-element field-reference="key" index-type="keyword" instance-id="DtuFCsCC" name="Text96979067" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[rti-header]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[rti-header]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="navigationTitle" index-type="keyword" instance-id="4NTLayCV" name="Text28880121" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="navigationSubTitle" index-type="keyword" instance-id="7BGgRETF" name="Text22005424" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[Right to Information]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[सूचना का अधिकार]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="IconClassPath" index-type="keyword" instance-id="bOOX7nmJ" name="Text69180574" type="text">
+            <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="IconUpload" index-type="text" instance-id="3A8gpJTc" name="Image15410602" type="image">
+            <dynamic-content language-id="en_US"><![CDATA[{}]]></dynamic-content>
+            <dynamic-content language-id="hi_IN"><![CDATA[{}]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element field-reference="subNavigationGroup" index-type="" instance-id="LaAyNakj" name="Fieldset60439245" type="fieldset">
+            <dynamic-element field-reference="subKey" index-type="keyword" instance-id="Zir2mTdu" name="Text65374256" type="text">
+                <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+                <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
+            </dynamic-element>
+            <dynamic-element field-reference="subNaviagtionTitle" index-type="keyword" instance-id="dOXza31z" name="Text49632658" type="text">
+                <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+                <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
+            </dynamic-element>
+            <dynamic-element field-reference="subNaviagtionSubTitle" index-type="keyword" instance-id="xEPpsfRn" name="Text67500658" type="text">
+                <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+                <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
+            </dynamic-element>
+            <dynamic-element field-reference="subIconClassPath" index-type="keyword" instance-id="aKwX28Di" name="Text08344407" type="text">
+                <dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+                <dynamic-content language-id="hi_IN"><![CDATA[]]></dynamic-content>
+            </dynamic-element>
+            <dynamic-element field-reference="subIconUpload" index-type="text" instance-id="K3EjfAKc" name="Image10312884" type="image">
+                <dynamic-content language-id="en_US"><![CDATA[{}]]></dynamic-content>
+                <dynamic-content language-id="hi_IN"><![CDATA[{}]]></dynamic-content>
+            </dynamic-element>
+        </dynamic-element>
+    </dynamic-element>
+</root>
