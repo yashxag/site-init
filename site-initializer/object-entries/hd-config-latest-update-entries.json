@@ -1,0 +1,67 @@
+{
+  "object-entries": [
+    {
+      "externalReferenceCode": "hd-latest-update-navigation",
+      "featureEnabled": true,
+      "paginationParam": "",
+      "title_i18n": {
+        "en_US": "Latest Update Navigation",
+        "hi_IN": "नवीनतम अपडेट का नेविगेशन"
+      },
+      "additionalParams": "",
+      "searchParam": "",
+      "requestPayload": "",
+      "serviceURL": "/o/headless-delivery/v1.0/structured-content-folders/{folder_id}/structured-contents?fields=contentFields.name,contentFields.nestedContentFields.name,contentFields.nestedContentFields.contentFieldValue&restrictFields=actions&sort=priority:asc,dateModified:desc",
+      "characterLimit": 0,
+      "filterFields": "",
+      "screenName": "/latest",
+      "categoryFiltersURL": "",
+      "httpMethod": {
+        "key": "GET",
+        "name": "GET"
+      },
+      "title": "Latest Update Navigation",
+      "filterParam": "",
+      "folderId": 0,
+      "assetType": {
+        "key": "webContent",
+        "name": "Web Content"
+      },
+      "application": "web",
+      "sortByFields": "",
+      "key": "latest-update-navigation"
+    },
+    {
+      "externalReferenceCode": "hd-latest-features",
+      "featureEnabled": true,
+      "paginationParam": "&page=1&pageSize=40",
+      "title_i18n": {
+        "en_US": "Latest Features",
+        "hi_IN": "नवीनतम सुविधाएँ"
+      },
+      "additionalParams": "",
+      "searchParam": "&search=${search_param}",
+      "requestPayload": "{\n  \"attributes\": {\n    \"search.empty.search\": true,\n    \"search.experiences.blueprint.external.reference.code\": \"GEM-TAXONOMY-FILTER-SEARCH\",\n    \"search.experiences.folderId\": {folder_id}\n  }\n}",
+      "serviceURL": "/o/search/v1.0/search?sort=dateModified:desc&nestedFields=embedded&fields=title,dateModified,dateCreated,embedded.contentFields.contentFieldValue,embedded.contentFields.name",
+      "characterLimit": 0,
+      "filterFields": "",
+      "screenName": "/latest",
+      "categoryFiltersURL": "",
+      "httpMethod": {
+        "key": "POST",
+        "name": "POST"
+      },
+      "title": "Latest Features",
+      "filterParam": "&filter=dateModified ge ${start_date} and dateModified le ${end_date}",
+      "folderId": 0,
+      "assetType": {
+        "key": "webContent",
+        "name": "Web Content"
+      },
+      "application": "web",
+      "sortByFields": "{\n   \"Title\":\"title\",\n\"Date Modified\" :\"dateModified\"\n}",
+      "key": "latest-features"
+    }
+  ],
+  "objectDefinitionName": "HeadlessDeliveryConfigurations"
+}
